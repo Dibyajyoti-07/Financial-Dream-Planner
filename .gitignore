@@ -1,0 +1,90 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+myenv/
+venv/
+env/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# ML models & data
+*.pkl
+*.h5
+*.pth
+*.onnx
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb
+!analysis.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Claude & AI tools (local only)
+.claude/graphify/
+.claude/skills-repo/
+.claude/plugins/headroom-agent-hooks/
+.headroom/
+
+# RAG & vector stores (regenerate locally)
+rag/chroma_db/
+rag/faiss_index/
+*.index
+
+# Temporary & cache
+*.tmp
+*.cache
+.cache/
+
+# Project documentation (local only)
+CLAUDE.md
+PRD.md
+TRD.md
+Implementation_Plan.md
+Edge_Cases_Test.md
+.claude
+graphify-out/

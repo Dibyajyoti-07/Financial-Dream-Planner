@@ -41,6 +41,7 @@ ENV/
 .ipynb_checkpoints
 *.ipynb
 !analysis.ipynb
+!model_evaluation.ipynb
 
 # IDEs
 .vscode/

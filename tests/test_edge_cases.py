@@ -243,3 +243,26 @@ def test_generic_failure_does_not_suggest_models():
     assert r["degraded"] is True
     assert r["error_type"] == "unavailable"
     assert r["suggested_models"] is None
+
+
+def test_stream_rate_limit_fallback_has_no_partial_tokens_and_a_plan():
+    from langchain_core.exceptions import ModelRateLimitError
+
+    with patch("agent.agent._build_agent", side_effect=ModelRateLimitError("rate limited")):
+        events = list(agent.stream(
+            "I am 24, Kolkata, M.Tech, Data Scientist, planning Home in 5 years, save 20%",
+            model_id="gemini-3.5-flash",
+        ))
+    assert len(events) == 1
+    assert events[0]["type"] == "fallback"
+    assert events[0]["error_type"] == "rate_limit"
+    assert events[0]["plan"] is not None
+
+
+def test_chat_stream_endpoint_returns_ndjson_with_final_event(client):
+    payload = {"message": "I am 24, Kolkata, M.Tech, Data Scientist, planning Home in 5 years, save 20%", "history": [], "model_id": "groq-gpt-oss-120b"}
+    with client.stream("POST", "/chat/stream", json=payload) as r:
+        assert r.status_code == 200
+        events = [json.loads(line) for line in r.iter_lines() if line]
+    assert events[-1]["type"] == "final"
+    assert "".join(e["text"] for e in events if e["type"] == "token")

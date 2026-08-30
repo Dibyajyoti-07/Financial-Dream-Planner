@@ -56,6 +56,11 @@ def is_loaded():
         return False
 
 
+def warmup():
+    _load_store()
+    _get_reranker()
+
+
 def _semantic_search(query, k):
     store = _load_store()
     results = store.similarity_search_with_relevance_scores(query, k=k)

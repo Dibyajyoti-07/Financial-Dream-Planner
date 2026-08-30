@@ -4,6 +4,7 @@ from typing import Literal
 
 import groq
 from langchain_core.exceptions import ModelRateLimitError
+from langchain_core.messages import HumanMessage
 from langchain_core.tools import tool
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_groq import ChatGroq
@@ -13,6 +14,7 @@ RATE_LIMIT_ERRORS = (ModelRateLimitError, groq.RateLimitError)
 
 from agent.fallback_extractor import ExtractionError, extract_plan_request
 from agent.system_prompt import SYSTEM_PROMPT
+from agent.web_search_tool import web_search
 from rag import retriever
 from tools import feasibility_tool, future_cost_tool, investment_tool, recommendation_tool, salary_tool
 from tools.planner import compute_plan
@@ -27,7 +29,7 @@ MODEL_REGISTRY = {
     "groq-qwen-3.8-27b": {"provider": "groq", "model": "qwen/qwen3.8-27b"},
 }
 ALLOWED_MODELS = list(MODEL_REGISTRY.keys())
-DEFAULT_MODEL = "gemini-2.5-flash"
+DEFAULT_MODEL = "groq-gpt-oss-120b"
 
 
 @tool
@@ -70,7 +72,7 @@ def knowledge_base_search(query: str) -> list[str]:
     return retriever.retrieve(query, k=3)
 
 
-TOOLS = [predict_salary, future_goal_cost, investment_required, feasibility_check, recommend_category, knowledge_base_search]
+TOOLS = [predict_salary, future_goal_cost, investment_required, feasibility_check, recommend_category, knowledge_base_search, web_search]
 
 
 class InvalidModelError(ValueError):
@@ -232,3 +234,28 @@ def run(message, history=None, model_id=DEFAULT_MODEL):
         return _fallback_reply(message, model_id=model_id, error_type="rate_limit")
     except Exception:
         return _fallback_reply(message, model_id=model_id, error_type="unavailable")
+
+
+def stream(message, history=None, model_id=DEFAULT_MODEL):
+    """Yields {"type": "token", "text": str} while the final answer streams, then exactly one
+    terminal event: {"type": "final", "plan": ...} on success, or
+    {"type": "fallback", **_fallback_reply(...)} if the model call fails (e.g. rate limit)."""
+    collected = [HumanMessage(content=message)]
+    try:
+        agent = _build_agent(model_id)
+        messages = [*(history or []), {"role": "user", "content": message}]
+        for chunk, metadata in agent.stream({"messages": messages}, stream_mode="messages"):
+            collected.append(chunk)
+            if type(chunk).__name__ == "AIMessageChunk" and chunk.content and metadata.get("langgraph_node") == "agent":
+                yield {"type": "token", "text": chunk.content}
+    except InvalidModelError:
+        raise
+    except RATE_LIMIT_ERRORS:
+        yield {"type": "fallback", **_fallback_reply(message, model_id=model_id, error_type="rate_limit")}
+        return
+    except Exception:
+        yield {"type": "fallback", **_fallback_reply(message, model_id=model_id, error_type="unavailable")}
+        return
+
+    plan = _extract_plan_from_messages(collected)
+    yield {"type": "final", "plan": plan, "error_type": None, "suggested_models": None}

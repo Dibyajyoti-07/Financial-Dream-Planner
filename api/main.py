@@ -1,11 +1,12 @@
 import json
 import logging
+from contextlib import asynccontextmanager
 from pathlib import Path
 from typing import Literal
 
 from dotenv import load_dotenv
 from fastapi import FastAPI
-from fastapi.responses import JSONResponse
+from fastapi.responses import JSONResponse, StreamingResponse
 from pydantic import BaseModel, Field, field_validator
 
 load_dotenv()
@@ -19,7 +20,15 @@ from tools.planner import DEFAULT_AREA_TYPE, compute_plan
 
 logger = logging.getLogger(__name__)
 
-app = FastAPI(title="AI-Powered Financial Dream & Goal Planner")
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    salary_tool.is_loaded()
+    retriever.warmup()
+    yield
+
+
+app = FastAPI(title="AI-Powered Financial Dream & Goal Planner", lifespan=lifespan)
 
 METADATA_PATH = Path(__file__).parent.parent / "models" / "model_metadata.json"
 
@@ -93,6 +102,15 @@ def recalculate(req: PlanRequest):
 @app.post("/chat")
 def chat(req: ChatRequest):
     return agent.run(req.message, req.history, req.model_id)
+
+
+@app.post("/chat/stream")
+def chat_stream(req: ChatRequest):
+    def generate():
+        for event in agent.stream(req.message, req.history, req.model_id):
+            yield json.dumps(event) + "\n"
+
+    return StreamingResponse(generate(), media_type="application/x-ndjson")
 
 
 @app.get("/health")

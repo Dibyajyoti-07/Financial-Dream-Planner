@@ -1,0 +1,2033 @@
+FINANCIAL GUIDELINES A Practical Personal-Finance, Banking, Investment,
+Digital-Safety and Investor-Protection Handbook
+
+SOURCE BASIS This handbook is synthesized from the two user-provided
+financial-education publications: 1. Financial Awareness Messages
+(FAME), Financial Inclusion and Development Department, Reserve Bank of
+India, Fourth Edition, February 2024. 2. Fundamentals of Securities
+Market – Your Guide for Financial Growth, Securities and Exchange Board
+of India (SEBI).
+
+PURPOSE AND SCOPE This document converts the major concepts, practices,
+warnings, procedures and educational messages in the two source
+publications into one structured set of financial guidelines. It covers
+financial literacy, budgeting, saving, borrowing, banking, credit
+scores, interest, compounding, inflation, time value of money, risk and
+return, diversification, digital payments, cyber safety, consumer
+protection, securities markets, SEBI, investment products, mutual funds,
+taxation of securities-market investments as presented in the source
+booklet, pension, insurance, emergency funds, fraud prevention,
+grievance redressal and practical checklists.
+
+IMPORTANT SOURCE NOTE The numerical limits, rates, procedures, tax
+treatments, regulatory references and product descriptions in this
+handbook are reproduced in substance from the editions supplied by the
+user. Financial rules can change. Therefore, before making an actual
+transaction, investment, loan, tax filing or complaint, verify the
+then-current requirements with the relevant regulated institution or
+regulator. This handbook is educational material, not individualized
+investment, tax or legal advice.
+
+CONTENTS
+
+PART I - FINANCIAL FOUNDATIONS 1. Financial Literacy: The Starting Point
+2. Determine Your Financial Position 3. Income Management 4. Expenditure
+Management 5. Budgeting 6. Saving and the Save-First Mindset 7. Savings
+Products and the Safety-Liquidity-Return Framework 8. Financial Goals
+and the SMART Framework 9. Inflation and Purchasing Power 10. Time Value
+of Money 11. Compounding 12. Interest on Loans and the True Cost of
+Borrowing 13. Responsible Borrowing and Credit Scores 14. Emergency
+Funds 15. Insurance and Pension Planning
+
+PART II - INVESTMENT PRINCIPLES 16. Saving Versus Investing 17. Risk and
+Return 18. Asset Allocation 19. Diversification 20. Investment Options
+21. Securities Markets and Their Ecosystem 22. SEBI and Investor
+Protection 23. Preparing to Invest in Securities Markets 24. Equity and
+Shares 25. Bonds and Debentures 26. Mutual Funds and ETFs 27.
+Mutual-Fund Selection, Direct/Regular Plans and SIPs 28. REITs, InvITs
+and Commodity Derivatives 29. Derivatives: Why They Require Extra
+Caution 30. Investment Discipline and Portfolio Monitoring 31. Tax
+Treatment of Securities-Market Investments
+
+PART III - BANKING AND DIGITAL FINANCIAL SAFETY 32. Deposit Accounts and
+Good Banking Practices 33. Inoperative Accounts and Unclaimed Deposits
+34. Payments Banks, Small Finance Banks and Business Correspondents 35.
+Retail Remittances 36. UPI 37. Electronic Banking Safety 38. ATM Safety
+39. Fraudulent Digital Transactions and Customer Liability 40. Account
+Aggregator 41. Digital Lending Apps 42. Digital Rupee 43. Currency
+Notes, Coins and the MANI App 44. UDGAM Portal
+
+PART IV - CONSUMER PROTECTION AND FRAUD PREVENTION 45. Mis-selling 46.
+Too-Good-to-Be-True Offers 47. Sachet and Regulatory Verification 48.
+Cyber Frauds and Digital Hygiene 49. Ponzi and Pyramid Schemes 50.
+Investor Records and Evidence 51. Grievance Redressal in Banking 52. RBI
+Complaint Management System 53. Securities-Market Complaints: SCORES 54.
+Online Dispute Resolution 55. SAARTHI and Financial-Education Resources
+
+PART V - PRACTICAL FINANCIAL OPERATING SYSTEM 56. A Monthly Financial
+Routine 57. A Goal-Based Investment Decision Process 58. A Borrowing
+Decision Process 59. A Fraud-Response Process 60. A Financial-Health
+Checklist 61. Common Financial Mistakes to Avoid 62. Integrated Example
+63. Final Rules 64. Quick Reference Checklists
+
+============================================================ PART I -
+FINANCIAL FOUNDATIONS
+============================================================
+
+1.  FINANCIAL LITERACY: THE STARTING POINT
+
+Financial literacy is more than knowing the names of bank accounts or
+investment products. The FAME publication defines financial literacy as
+a combination of financial awareness, knowledge, skills, attitude and
+behaviour necessary to make sound financial decisions and ultimately
+achieve individual financial well-being. It therefore has three closely
+connected dimensions: financial knowledge, financial behaviour and
+financial attitude.
+
+Financial knowledge means understanding important concepts and being
+able to evaluate them in real financial situations. Examples include
+simple interest, compound interest, time value of money, inflation,
+diversification, risk-return relationships and interest paid on loans.
+Knowledge by itself, however, does not guarantee good outcomes. A person
+may understand compounding and still fail to save regularly.
+
+Financial behaviour concerns what a person actually does with money: how
+income and expenses are managed, whether savings are made, whether
+investments are planned, whether credit is used responsibly and whether
+a safety net is built. Financial attitude concerns the way a person
+responds to saving, spending, risk and long-term security. A disciplined
+financial system therefore combines understanding with repeatable
+behaviour.
+
+The second source similarly emphasizes that financial education should
+help individuals understand and plan income and expenses, build and
+manage assets and liabilities, develop budgeting, saving and investing
+habits, and secure the future through insurance and pension. A useful
+principle emerging from both publications is simple: money management
+should be deliberate rather than reactive.
+
+A strong financial system begins with four questions: - What money comes
+in? - What money goes out? - What financial obligations already exist? -
+What future goals must the money support?
+
+The answers create the foundation for every later decision.
+
+2.  DETERMINE YOUR FINANCIAL POSITION
+
+Before selecting a financial product, establish your current financial
+position. The securities-market booklet presents this as an initial
+step: assess income, expenses, assets and liabilities, calculate net
+worth, set financial goals and prepare a SMART plan.
+
+Start by listing all income sources. Depending on circumstances, income
+may include salary, business income, rent, interest, pension and other
+legitimate receipts. Then list all expenditure. Separate essential
+expenses such as food, housing, education, transport, healthcare and
+utilities from discretionary expenses such as shopping, dining out and
+entertainment.
+
+Next, list assets. Examples include bank balances, fixed deposits,
+investments, property and other financial or physical assets. Then list
+liabilities such as outstanding loans, credit-card dues and other
+repayment obligations.
+
+A basic net-worth calculation is:
+
+NET WORTH = TOTAL ASSETS - TOTAL LIABILITIES
+
+Net worth is not a complete measure of financial health, but it is a
+useful starting point. A person with high assets but excessive
+short-term debt may still have financial stress. Similarly, a young
+person with limited assets but controlled expenses, regular savings and
+manageable liabilities may be building a strong position.
+
+The important point is to make the financial position visible. Once
+income, spending, assets and liabilities are written down, financial
+decisions become easier to evaluate.
+
+3.  INCOME MANAGEMENT
+
+Income is the foundation of personal finance because savings and
+investment capacity ultimately come from available income after
+necessary expenditure. The securities-market booklet describes income as
+money earned by an individual or household from sources such as salary,
+business, rent, interest, pension and government schemes.
+
+Income management starts by understanding amount, frequency and source.
+A salaried employee may receive income monthly; a business owner may
+experience variable cash flows; a person receiving rent or interest may
+have periodic receipts. The budget should reflect actual timing, not
+merely annual totals.
+
+Do not confuse gross income with money actually available for spending.
+Financial planning should account for taxes, mandatory deductions and
+unavoidable commitments where applicable. Once usable income is known,
+allocate it deliberately.
+
+The source booklet also encourages diversification of income sources
+over time, for example by developing skills, taking part-time work or
+investing in income-generating assets. This should not be interpreted as
+a requirement to pursue every possible income stream. The useful lesson
+is that dependence on a single source can make a financial plan more
+vulnerable to interruption.
+
+Income should first support necessities and financial obligations, then
+planned savings and investments, and finally discretionary consumption.
+The precise proportions will vary by household and goal.
+
+4.  EXPENDITURE MANAGEMENT
+
+Expenditure is money spent to meet daily needs and financial
+obligations. The securities-market booklet divides expenditure
+conceptually into essentials and discretionary spending. Essentials
+include items such as food, housing, education, transport, healthcare
+and utility bills. Discretionary expenditure includes shopping, dining
+out and entertainment.
+
+The first rule is visibility. Track spending rather than relying on
+memory. The source recommends keeping a daily record of income and
+expenses for at least six months. This creates a realistic picture of
+recurring expenses, irregular expenses and spending leakage.
+
+The second rule is classification. A purchase should be evaluated as a
+need, a want or an avoidable expense. This is not a moral judgment. It
+is a budgeting tool. A discretionary expense can be perfectly reasonable
+when it fits within a plan; the problem arises when discretionary
+spending consumes money required for obligations, savings or emergency
+reserves.
+
+The third rule is review. Compare planned spending with actual spending.
+If a category repeatedly exceeds its budget, investigate the cause. The
+answer may be an unrealistic budget, a forgotten annual expense,
+lifestyle inflation or unnecessary consumption.
+
+A practical expenditure-control sequence is: 1. Record. 2. Categorize.
+3. Set a limit. 4. Compare actual spending with the limit. 5. Correct
+the next period’s allocation.
+
+The FAME publication similarly emphasizes that a budget helps control
+expenses and that comparing budgeted expenditure with actual expenditure
+shows where spending was higher or lower than planned.
+
+5.  BUDGETING
+
+A budget is a plan for future income and expenses. It can be weekly,
+monthly or yearly. Its purpose is not merely to restrict spending; it is
+to allocate money so that current needs, future goals and financial
+safety can coexist.
+
+The source publications emphasize several benefits of budgeting:
+controlling unnecessary expenses, tracking income and spending, saving
+for short- and long-term goals, reducing financial stress and preventing
+debt accumulation.
+
+A practical three-step budgeting process is: Step 1: Know your income
+sources. Step 2: List your essential and non-essential expenses. Step 3:
+Set spending limits and save before spending.
+
+The securities-market booklet presents the 50-30-20 principle as a
+useful starting framework: approximately 50% for needs, 30% for wants
+and 20% for savings, while explicitly noting that the proportions may
+vary according to the goal. Treat this as a framework, not an inflexible
+law.
+
+The FAME approach gives the stronger behavioural message: saving should
+be treated as a planned part of income rather than whatever remains
+accidentally at the end of the month.
+
+A good budget should also account for irregular costs. Annual insurance
+premiums, education payments, repairs, festivals, travel and other
+non-monthly expenses should not be allowed to appear as “unexpected”
+merely because they occur infrequently.
+
+Review the budget monthly. If income changes, debt changes or a major
+goal changes, revise the allocation.
+
+6.  SAVING AND THE SAVE-FIRST MINDSET
+
+Saving is the portion of income that is not spent and is kept aside for
+future use. The FAME publication expresses the relationship as:
+
+SAVING = INCOME - EXPENDITURE
+
+It also presents a behavioural alternative:
+
+EXPENDITURE = INCOME - SAVING
+
+The second formulation captures the save-first mindset. Instead of
+spending first and hoping something remains, set aside a planned amount
+before discretionary expenditure.
+
+The securities-market booklet similarly presents a mindset shift:
+
+Income - Expenses = Saving versus Income - Saving = Expenses
+
+The practical rule is: “Save first. Spend what is left.”
+
+Saving serves several purposes. It provides a cushion for emergencies,
+supports short-term and long-term goals, reduces dependence on expensive
+credit and creates capital that can later be invested.
+
+The second source suggests saving at least 20% of monthly income as an
+ideal target and maintaining an emergency fund equal to six months of
+expenses. These are educational guidelines rather than universal
+requirements; actual savings capacity depends on income, obligations,
+household structure and financial goals.
+
+Savings should be accessible when needed and should not all be locked
+into products that are difficult to liquidate. The FAME publication
+emphasizes keeping some savings in liquid assets and avoiding very risky
+or unregulated instruments.
+
+7.  SAVINGS PRODUCTS AND THE SAFETY-LIQUIDITY-RETURN FRAMEWORK
+
+The FAME publication identifies three important considerations when
+saving: Safety, Liquidity and Return.
+
+Safety refers to how certain the preservation of principal and expected
+return are. The source describes government bonds as among the safest
+and bank fixed deposits as comparatively safe.
+
+Liquidity refers to how easily an asset can be converted into cash with
+minimum loss of value. Bank deposits, listed and traded equity shares
+and mutual funds are described as comparatively liquid, although actual
+liquidity and market value can differ across products.
+
+Return refers to the income or gain generated by the financial product.
+Higher-return possibilities can involve greater risk. An equity share
+may generate higher returns but can also suffer a higher loss.
+
+The securities-market booklet describes several savings-related
+products. Savings accounts generally provide easy deposits and
+withdrawals and may earn interest. Current accounts are primarily
+intended for businesses, firms and traders and generally do not provide
+interest on the balance. Fixed deposits involve placing a lump sum for a
+fixed period at a fixed rate, with premature withdrawal generally
+subject to a penalty. Recurring deposits involve regular deposits over a
+fixed tenure.
+
+The key principle is that no single product automatically maximizes
+safety, liquidity and return simultaneously. A financial plan should
+match each pool of money to its purpose.
+
+For example, money required for an immediate emergency should prioritize
+accessibility and stability. Money intended for a distant goal can
+potentially accept more investment risk if appropriate.
+
+8.  FINANCIAL GOALS AND THE SMART FRAMEWORK
+
+A financial goal is a specific target to achieve with money within a
+defined time frame. Goals give savings and investment decisions a
+purpose.
+
+The securities-market booklet divides examples into: - Short-term goals:
+approximately 0-3 years, such as an emergency fund, vacation or buying a
+gadget. - Medium-term goals: approximately 3-7 years, such as buying a
+car, higher education or upgrading home appliances. - Long-term goals:
+7+ years, such as buying a house, planning for a child’s marriage or
+retirement.
+
+Goals should follow the SMART framework: S - Specific M - Measurable A -
+Attainable R - Relevant T - Time bound
+
+For example, “I want a scooter” is vague. A SMART goal would specify the
+target amount, monthly saving requirement, purpose and deadline. The
+source gives an illustration of saving Rs. 7,500 per month for 12 months
+toward a Rs. 90,000 scooter needed for daily commuting.
+
+The goal should then determine the financial product, not the other way
+around. If the goal is near-term, a highly volatile asset may be
+unsuitable because the money may be needed during a market decline. A
+long-term goal can potentially tolerate more volatility if the investor
+has the appropriate risk capacity and discipline.
+
+Every major financial goal should therefore contain five fields: target
+amount, current amount, deadline, required contribution and chosen
+financial vehicle.
+
+9.  INFLATION AND PURCHASING POWER
+
+Inflation is the rate of increase in prices of goods and services over
+time. When prices rise, the purchasing power of money falls.
+
+Suppose a product costs Rs. 100 today and Rs. 110 a year later. The
+increase is Rs. 10, equivalent to 10% inflation over that period for
+that example.
+
+Inflation matters because a nominally positive return can still
+represent a loss in purchasing power. FAME provides an illustrative
+comparison: if an investment earns 6% while inflation is 4%, the simple
+real-return illustration is approximately 2%. If money earns 0% while
+inflation is 4%, the illustrative real return is -4%.
+
+The securities-market booklet gives a similar example: if inflation is
+6% while a savings account gives 4%, the money may lose purchasing power
+in real terms even though the account balance increases numerically.
+
+Inflation must therefore be incorporated into long-term goals. A
+retirement target calculated only using today’s prices can be inadequate
+if future living costs are substantially higher.
+
+The source encourages long-term investing and notes that assets such as
+mutual funds, gold, property or stocks may have the potential to grow
+faster than inflation, although these investments carry different risks
+and are not guaranteed to outperform inflation over every period.
+
+10. TIME VALUE OF MONEY
+
+The time value of money (TVM) means that money available now can be
+worth more than the same nominal amount received in the future because
+current money can potentially earn a return.
+
+FAME illustrates the concept using a 10% annual compound rate. Rs. 100
+invested for two years becomes Rs. 121. Therefore, Rs. 121 received two
+years later has a present value of Rs. 100 under that assumed rate.
+
+Two concepts follow: Future Value (FV): what current money can grow
+into. Present Value (PV): what a future amount is worth today at a
+chosen discount rate.
+
+TVM matters when comparing investment alternatives, loans, future
+expenses and long-term goals. It also explains why starting early can be
+powerful: money invested earlier has more time to compound.
+
+TVM should not be interpreted as a guarantee of investment return. The
+calculation depends on the assumed rate, compounding frequency and time
+period. Actual market investments can have uncertain returns.
+
+A practical guideline is to evaluate large financial commitments in
+terms of timing as well as amount. Receiving or paying Rs. 100 today is
+not economically identical to receiving or paying Rs. 100 years later.
+
+11. COMPOUNDING
+
+Compounding is often described as “interest on interest.” The return
+earned is added to the principal and subsequently earns further returns.
+
+FAME gives a simple illustration: Rs. 10,000 at 10% compounded annually
+becomes Rs. 11,000 after year one, Rs. 12,100 after year two and Rs.
+13,310 after year three.
+
+The general formula is:
+
+A = P x (1 + r/n)^(n x t)
+
+where: A = amount, P = principal, r = annual interest rate expressed as
+a decimal, n = number of compounding periods per year, t = time in
+years.
+
+The source also illustrates the effect over ten years: Rs. 10,000
+earning 10% simple interest would become Rs. 20,000, while 10%
+compounded quarterly becomes approximately Rs. 26,851 under the stated
+assumptions.
+
+The important lesson is not to chase a particular rate but to understand
+time and reinvestment. Long holding periods can magnify the effect of
+compounding.
+
+Compounding works in both directions. Investments can compound
+positively when returns are reinvested, while borrowing can become
+expensive when interest and charges accumulate. This is why the cost of
+debt must be understood before borrowing.
+
+12. INTEREST ON LOANS AND THE TRUE COST OF BORROWING
+
+Interest is the cost of borrowing money. FAME provides a simple-interest
+illustration: borrowing Rs. 100 for one year at 10% simple interest
+produces Rs. 10 interest and Rs. 110 total repayment under that
+simplified example.
+
+The publication warns that the rate printed in a prominent location may
+not communicate the complete cost. Borrowers should read the loan
+sanction letter, terms and conditions and fine print. It specifically
+warns that a charge described as 2% per month would amount to 24% per
+year if annualized in that simple manner.
+
+The source also states that banks do not offer simple-interest-rate
+loans as represented by the educational example; the example is designed
+to explain the mathematics.
+
+Before borrowing, determine: - Principal borrowed. - Interest rate and
+how it is calculated. - Annualized cost where applicable. - Processing
+fees. - Penalties and other charges. - Repayment frequency. - Tenure. -
+Total repayment obligation. - Conditions for early repayment or
+foreclosure. - Consequences of delayed payment.
+
+Do not judge a loan solely by the monthly EMI. A lower EMI can result
+from a longer tenure and therefore a higher total cost.
+
+For digital loans, the source specifically emphasizes checking the
+Annual Percentage Rate and the Key Fact Statement before accepting the
+loan.
+
+13. RESPONSIBLE BORROWING AND CREDIT SCORES
+
+Borrowing is appropriate when it supports a manageable financial purpose
+and the repayment burden fits the borrower’s means. FAME gives examples
+of borrowing that creates value or supports long-term benefit, such as a
+mortgage for a house or an education loan for higher education. It
+contrasts this with irresponsible use of credit for discretionary
+personal expenditure.
+
+Borrow from regulated entities such as banks, NBFCs and HFCs where
+possible. The source explains that regulated entities are supervised and
+have grievance-redress mechanisms. Borrowers should be cautious of
+agents who charge fees merely to “facilitate” a loan and should deal
+directly with the bank, NBFC, HFC or authorized Business Correspondent.
+
+A credit score is a three-digit indicator of creditworthiness based on
+credit history and other factors. The FAME publication explains that
+timely repayment generally supports a higher score. Financial
+institutions may consider the score and credit history, along with other
+factors, when evaluating a loan. A higher score may, all else equal,
+help a borrower access credit at a lower rate.
+
+Good credit behaviour includes: - Borrow only what you can repay
+regularly and on time. - Never deliberately miss instalments. - Monitor
+repayment dates. - Review your credit report. - Correct inaccurate
+information. - Repay earlier where financially appropriate and where
+doing so supports a good credit history.
+
+The source states that individuals have access to one free full credit
+report, including credit score, once each calendar year, with access
+procedures available from the respective credit information companies.
+
+14. EMERGENCY FUNDS
+
+An emergency fund is a financial safety net intended for unexpected
+expenses and income disruptions. The securities-market booklet presents
+six months of expenses as an emergency-fund target.
+
+An emergency fund should be distinguished from long-term investment
+capital. Its primary objective is resilience, not maximum return. The
+money should therefore be accessible and relatively stable.
+
+A practical emergency-fund calculation is:
+
+EMERGENCY FUND TARGET = MONTHLY ESSENTIAL EXPENSES x TARGET NUMBER OF
+MONTHS
+
+If essential expenses are Rs. 30,000 per month and the chosen target is
+six months, the illustrative target is Rs. 1,80,000.
+
+The correct target varies with employment stability, dependents,
+insurance coverage, debt, household structure and other factors. The
+important source-based principle is to build a safety reserve before
+relying heavily on long-term market investments.
+
+An emergency fund reduces the probability that a sudden expense will
+force the household to sell investments at an unfavorable time or borrow
+at a high cost.
+
+15. INSURANCE AND PENSION PLANNING
+
+Insurance is a financial protection tool. It is designed to transfer
+specified financial risks to an insurer in exchange for a premium under
+the terms of the policy. The securities-market booklet identifies
+insurance as a component of securing one’s future along with pension
+planning.
+
+Insurance and investment should not automatically be combined. FAME’s
+mis-selling guidance specifically recommends assessing insurance needs
+and investment requirements separately and taking an insurance policy or
+investment product only when it is actually needed.
+
+Before buying insurance, understand the purpose of the policy, the
+coverage, exclusions, premium, duration and important conditions. Never
+sign blank forms and do not accept a product merely because someone
+describes it as a mandatory add-on to another financial service unless
+the requirement is legitimate and clearly documented.
+
+Pension planning addresses the need for income after working years. The
+securities-market booklet describes the National Pension System (NPS),
+regulated by PFRDA, as a government-backed retirement scheme in which
+individuals can invest during working years and receive pension and
+lump-sum benefits after retirement, subject to the applicable rules. The
+money can be invested in equity, corporate bonds and government
+securities depending on the investor’s age and choice, and the booklet
+notes tax benefits and partial withdrawal provisions.
+
+Retirement planning should begin early because the horizon is long and
+compounding can become significant. The correct approach is to define
+the desired retirement lifestyle, estimate future expenses, account for
+inflation, identify existing retirement assets and determine a
+disciplined contribution strategy.
+
+============================================================ PART II -
+INVESTMENT PRINCIPLES
+============================================================
+
+16. SAVING VERSUS INVESTING
+
+Saving and investing are related but not identical. Saving means setting
+aside income for future use. Investment means putting saved money into
+financial instruments or assets with the objective of generating returns
+over time.
+
+The securities-market booklet states that investments involve some
+degree of risk but offer potential for higher growth. Examples include
+mutual funds, fixed deposits, shares, bonds, gold and real estate.
+
+Savings generally emphasize safety and accessibility. Investments
+introduce a wider range of risk-return outcomes. Therefore, the money
+needed for immediate obligations should not automatically be placed into
+volatile assets merely because those assets have historically produced
+higher long-term returns.
+
+Before investing, determine: 1. Financial goal. 2. Time horizon. 3. Risk
+appetite and risk capacity. 4. Required liquidity. 5. Appropriate asset
+allocation. 6. Product costs and tax implications. 7. Regulatory status
+of the provider.
+
+The source’s investment message can be summarized as: invest early,
+invest regularly and invest wisely.
+
+17. RISK AND RETURN
+
+Every investment entails some degree of risk. FAME describes a general
+relationship: higher expected return generally comes with higher risk,
+including the possibility of losing part or all of the initial
+investment. Lower expected returns are generally associated with lower
+risk.
+
+Risk is not one-dimensional. It can include market-price volatility,
+credit or default risk, liquidity risk, interest-rate risk,
+concentration risk, inflation risk and operational or fraud risk.
+
+The securities-market booklet emphasizes matching the product to the
+goal, time frame and risk appetite. A high-return product is not
+automatically better. A product that is inappropriate for the investor’s
+time horizon can be harmful even if its long-term return potential is
+attractive.
+
+The booklet uses the idea that short-term fluctuations can be normal in
+market investments and encourages long-term thinking. Its key message is
+that volatility and risk are not identical concepts. Volatility
+describes fluctuations in price; risk also includes the possibility that
+the investment will not meet the investor’s objective or that capital
+may be permanently impaired.
+
+A disciplined investor therefore asks: - What can I lose? - Under what
+circumstances can I lose it? - How long can the loss last? - Can I
+tolerate that loss without abandoning the plan? - Does the expected
+return justify the risk?
+
+18. ASSET ALLOCATION
+
+Asset allocation is the strategy of distributing money across different
+asset classes. The securities-market booklet identifies asset allocation
+and diversification as core financial concepts.
+
+Typical asset categories mentioned in the two publications include bank
+deposits, bonds, equity shares, mutual funds, gold and real estate. Each
+behaves differently.
+
+The correct allocation depends on goal, time horizon and risk capacity.
+A short-term emergency reserve should not be treated the same as a
+retirement portfolio. A person saving for a near-term purchase may need
+higher stability and liquidity, whereas a long-term investor may be able
+to tolerate more equity-market volatility.
+
+Asset allocation should also reflect the investor’s overall financial
+position. A person whose employment, business and property exposure are
+all concentrated in one economic sector may need to think carefully
+before concentrating investments in the same area.
+
+Do not choose an allocation simply because it is fashionable. The
+appropriate allocation is the one that can be maintained through
+different market conditions while remaining aligned with the goal.
+
+19. DIVERSIFICATION
+
+Diversification means spreading investments across different assets
+rather than putting all money into one asset. FAME uses the familiar
+idea of not putting all eggs in one basket.
+
+Diversification reduces concentration risk. If one investment performs
+poorly, the entire financial position is less likely to be affected to
+the same degree when other investments behave differently.
+
+Diversification can occur across: - Asset classes. - Companies. -
+Sectors. - Investment products. - Time periods. - Geographical exposure
+where appropriate.
+
+However, diversification does not eliminate risk. A portfolio containing
+many securities can still fall in value if the overall market declines.
+Diversification is a risk-management technique, not a guarantee of
+profit.
+
+The FAME publication specifically advises that savings be invested in
+diversified instruments and that some portion be kept in liquid assets.
+It also warns against placing money in highly risky or unregulated
+instruments.
+
+The securities-market booklet similarly advises against putting all
+money into a single stock or sector. The objective is to construct a
+portfolio whose risks are understandable and manageable.
+
+20. INVESTMENT OPTIONS
+
+The securities-market booklet discusses a broad range of investment
+options.
+
+Bank Fixed Deposits: A fixed amount is deposited for a specified period
+at a pre-decided interest rate. The booklet describes FDs as traditional
+and comparatively safe. It states that, under the DICGC rules described
+in the booklet, bank deposits are insured up to Rs. 5 lakh per depositor
+per bank in the circumstances covered by deposit insurance.
+
+Public Provident Fund (PPF): The booklet describes PPF as a
+government-backed savings scheme with a 15-year lock-in, tax-free
+interest as described in the source, annual contribution limits of Rs.
+500 minimum and Rs. 1.5 lakh maximum, and partial withdrawal provisions
+after five financial years subject to the rules.
+
+Mutual Funds: Asset Management Companies pool investors’ money and
+invest in diversified portfolios of stocks, bonds or hybrid assets.
+Professional fund managers manage the portfolios.
+
+Stocks or Equity Shares: Buying shares means owning a part of a publicly
+listed company. Returns can arise through capital gains and dividends,
+but stock prices can fluctuate substantially.
+
+Real Estate: Property can generate rental income and capital
+appreciation but generally requires substantial capital and is less
+liquid. Maintenance costs, taxes and market fluctuations should be
+considered.
+
+Gold: The booklet describes physical gold and Gold ETFs and presents
+gold as an asset that can diversify a portfolio. Gold prices can
+fluctuate in the short term.
+
+National Pension System: NPS is described as a retirement-focused
+government-backed scheme regulated by PFRDA.
+
+Post Office Schemes: The booklet mentions schemes such as Monthly Income
+Scheme, Senior Citizen Savings Scheme, National Savings Scheme and Kisan
+Vikas Patra, describing them as government-backed options intended
+particularly for savers.
+
+Bonds and Debentures: These are debt instruments in which money is lent
+to a government or company in exchange for interest and repayment
+according to the terms. Government bonds are described as safer than
+corporate bonds, while corporate bonds may offer higher returns with
+somewhat higher risk.
+
+21. SECURITIES MARKETS AND THEIR ECOSYSTEM
+
+The securities market is a platform where instruments such as shares,
+bonds, debentures, mutual-fund units and derivatives are bought and
+sold. It connects investors who have capital with entities such as
+companies and governments that need funds.
+
+The securities-market booklet distinguishes: Primary Market: securities
+are issued for the first time, such as when a company conducts an IPO.
+Secondary Market: securities already issued and listed are bought and
+sold among market participants.
+
+The ecosystem contains several participants: - SEBI: regulator and
+investor-protection authority for the securities market. - Stock
+exchanges such as NSE and BSE: platforms for securities trading. -
+Depositories such as NSDL and CDSL: hold securities in dematerialized
+form. - Brokers: SEBI-registered intermediaries facilitating
+transactions. - Asset Management Companies: manage mutual funds. -
+Investment Advisers: SEBI-registered professionals providing investment
+advice within the applicable framework. - Banks: provide payment,
+transfer and ASBA-related services. - Rating agencies: provide ratings
+for certain debt instruments. - Registrars and Transfer Agents: maintain
+records and process relevant investor services.
+
+The source summarizes a practical investor mindset with the word SAFETY:
+S - use SEBI-registered platforms. A - avoid tips and traps. F - focus
+on the long term. E - educate yourself. T - track performance and taxes.
+Y - remember that your goals matter most.
+
+22. SEBI AND INVESTOR PROTECTION
+
+SEBI is the Securities and Exchange Board of India. The
+securities-market booklet describes SEBI as the regulator of the
+securities market and protector of investors’ interests, with
+responsibilities that include regulation and promotion of orderly market
+development.
+
+The practical implication for an investor is verification. Before
+handing money or personal information to a market intermediary, confirm
+that the entity is appropriately registered and that the service being
+offered matches the entity’s regulatory status.
+
+Investor protection also depends on investor behaviour. Regulation
+cannot substitute for reading documents, checking transactions,
+preserving records and reporting suspicious activity.
+
+The booklet repeatedly warns against unregistered advisers, fake
+investment platforms, guaranteed-return promises, social-media tips and
+pressure tactics.
+
+A useful rule is to separate three questions: 1. Is the provider
+legitimate and regulated? 2. Is the product itself suitable? 3. Are the
+terms, risks, costs and taxes understood?
+
+A “yes” to only the first question is insufficient. A regulated
+intermediary can still offer a product that is inappropriate for a
+particular goal, and a legitimate product can still be unsuitable if the
+investor does not understand its risk.
+
+23. PREPARING TO INVEST IN SECURITIES MARKETS
+
+The securities-market booklet presents a basic preparation sequence: 1.
+Open or link a bank account. 2. Complete KYC. 3. Open a Demat and
+Trading Account with a SEBI-registered stock broker or depository
+participant. 4. Begin with understandable investments and proceed
+according to the investor’s goals and risk capacity.
+
+KYC is a mandatory identity and address verification process. The
+booklet lists documents such as PAN, Aadhaar linked to a mobile number,
+photograph, signature and bank proof, subject to the applicable
+onboarding process.
+
+A Demat account holds securities in dematerialized form. A trading
+account provides the mechanism to buy and sell securities through a
+broker.
+
+For IPO investing, the booklet describes ASBA, under which an investor
+authorizes a Self-Certified Syndicate Bank to block funds in the
+relevant account rather than transferring the application money away
+immediately. The source notes that ASBA can be used for specified public
+and rights issues under the applicable framework.
+
+Before investing, ensure that account credentials are secure, contact
+details are updated and statements can be reviewed regularly.
+
+24. EQUITY AND SHARES
+
+A share represents ownership in a company. Equity investors can
+potentially earn through price appreciation and dividends.
+
+Equity carries market risk. Share prices can change because of company
+performance, economic conditions, industry developments, investor
+expectations and many other factors.
+
+The securities-market booklet contrasts an old belief that “stock market
+is risky” with a more informed perspective: lack of knowledge can itself
+be risky, while markets can provide opportunities when approached with
+education and discipline. It also emphasizes that volatility is part of
+market investing.
+
+Do not interpret this as a claim that equity is always safe in the long
+term. Long-term holding can help an investor ride through temporary
+fluctuations, but a weak company, excessive valuation, concentration or
+poor investment thesis can still cause significant loss.
+
+Before buying an individual stock, understand the company, its business
+model, financial performance, industry, risks and valuation
+considerations. Do not rely solely on social-media tips, WhatsApp
+messages or promotional claims.
+
+Diversification is especially important for investors who hold
+individual shares. A single-company investment can expose the portfolio
+to company-specific risk that cannot be removed by simply waiting.
+
+25. BONDS AND DEBENTURES
+
+Bonds and debentures are debt instruments. The investor lends money to a
+government or company in exchange for interest and repayment according
+to the terms.
+
+The securities-market booklet describes them as instruments that can
+provide regular and relatively predictable income. Government bonds are
+described as safer than corporate bonds, while corporate bonds may
+provide higher returns with somewhat higher risk.
+
+Bond investing still requires analysis. “Fixed interest” does not mean
+“zero risk.” Relevant considerations include issuer quality, maturity,
+interest rate, liquidity and the terms governing repayment.
+
+Credit risk is especially important for corporate debt: the issuer must
+be able to meet interest and principal obligations. Market values can
+also change before maturity because interest rates and market conditions
+change.
+
+Before investing in a bond or debenture, read the documentation and
+understand: - Issuer. - Coupon or interest terms. - Maturity. -
+Repayment structure. - Credit quality or rating where relevant. -
+Liquidity. - Applicable costs and taxes. - Conditions under which the
+security can be sold.
+
+The central guideline is to understand what you are lending to, for how
+long and under what repayment terms.
+
+26. MUTUAL FUNDS AND ETFs
+
+A mutual fund pools money from many investors and invests it in a
+portfolio managed according to a stated scheme objective. The
+securities-market booklet describes mutual funds as professionally
+managed and capable of providing diversification and easy entry.
+
+Mutual-fund risk varies by scheme. Equity funds generally carry greater
+market risk than many debt-oriented funds, while hybrid funds combine
+asset classes.
+
+An ETF, or Exchange Traded Fund, is a basket of assets that trades like
+a security on an exchange. The source lists ETFs among securities-market
+products and discusses index-linked investing.
+
+Key mutual-fund terms: NAV: Net Asset Value, the per-unit value of a
+mutual-fund scheme. AMC: Asset Management Company managing the mutual
+fund. Fund Manager: the professional responsible for investment
+decisions. Expense Ratio: a fee associated with managing the fund.
+
+The Riskometer is presented as a tool that helps investors understand a
+mutual-fund scheme’s risk level, ranging from Low to Very High.
+Investors should select funds based on risk capacity and financial goals
+rather than return advertisements alone.
+
+The booklet also emphasizes that mutual funds are market-linked and that
+returns are not fixed like an FD.
+
+27. MUTUAL-FUND SELECTION, DIRECT/REGULAR PLANS AND SIPS
+
+Mutual-fund selection should begin with the goal, not with the highest
+recent return.
+
+The source distinguishes Direct Plans and Regular Plans. A Direct Plan
+involves investing directly with the AMC without a distributor, broker
+or intermediary and generally has a lower expense ratio because
+distribution commissions are not included in the same manner. The
+investor takes responsibility for making decisions.
+
+A Regular Plan is purchased through a distributor, adviser or broker,
+with intermediary remuneration reflected in the structure. The booklet
+presents professional guidance as one potential advantage for new or
+less-informed investors.
+
+Investors should understand the difference and the associated cost
+before choosing.
+
+SIP stands for Systematic Investment Plan. It is a method of investing a
+predetermined amount at predetermined intervals in a mutual-fund scheme.
+The source notes that SIP frequency can be daily, weekly, fortnightly,
+monthly or quarterly depending on the scheme and setup.
+
+SIP is a method of investing, not a guarantee of profit. Its value comes
+from disciplined periodic investing and, in market-linked assets, from
+avoiding the need to predict a single perfect entry point.
+
+The source also explains that a missed SIP payment does not necessarily
+mean the investment itself must be cancelled. It describes pausing and
+restarting a SIP as an available approach, subject to the applicable
+scheme and platform terms.
+
+The booklet introduces “Choti SIP” as a small-ticket SIP initiative
+proposed by SEBI, with the source describing a starting amount as low as
+Rs. 250 per month.
+
+28. REITs, INVITs AND COMMODITY DERIVATIVES
+
+REITs and InvITs provide a way to invest in real-estate and
+infrastructure assets through listed units. The securities-market
+booklet describes them as investments that can provide regular income
+and potential capital appreciation, with moderate risk as presented in
+the source.
+
+The key attraction is exposure to underlying assets without directly
+purchasing an entire property or infrastructure project. However, their
+market prices can fluctuate, and the investor should understand the
+structure, underlying assets, distributions, fees and risks.
+
+Commodity derivatives are contracts linked to commodities such as gold,
+silver, oil or wheat. Their returns depend on price movements in the
+underlying commodity. The booklet describes them as high-risk and more
+appropriate for informed investors.
+
+Before using commodity derivatives, understand the commodity, market
+drivers, contract terms and potential losses. The source suggests using
+demo or mock-trading platforms where exchanges provide them before
+committing real money.
+
+29. DERIVATIVES: WHY THEY REQUIRE EXTRA CAUTION
+
+Derivatives derive their value from an underlying asset. The
+securities-market booklet describes futures and options as financial
+contracts linked to underlying assets such as stocks or commodities and
+classifies them as very high risk and potentially complex.
+
+A derivative should not be approached simply because the initial amount
+required appears smaller than the value of the underlying position.
+Contract specifications, leverage, expiry, margin requirements,
+volatility and settlement can produce outcomes that are difficult for an
+inexperienced participant to manage.
+
+The source explicitly advises understanding the underlying commodity,
+market drivers and contract terms before investing or hedging.
+
+A conservative guideline is: - Do not trade a derivative you cannot
+explain. - Know the maximum possible loss under the strategy. -
+Understand margin and settlement obligations. - Read the contract
+specifications. - Do not rely on anonymous tips. - Use regulated
+platforms and intermediaries. - Practice with a demo environment where
+appropriate.
+
+High complexity is itself a risk factor. The investor should be able to
+explain not just how a trade can make money, but how and why it can lose
+money.
+
+30. INVESTMENT DISCIPLINE AND PORTFOLIO MONITORING
+
+Investment discipline means following a process rather than reacting
+emotionally to market movements.
+
+The securities-market booklet recommends keeping copies of agreements,
+application forms, statements and communications; regularly reviewing
+account statements and portfolio performance; ensuring advice matches
+the investor’s risk profile and objectives; and raising complaints
+promptly when necessary.
+
+A disciplined portfolio review asks: - Has the financial goal changed? -
+Has the time horizon changed? - Has the investor’s income or liability
+position changed? - Has the risk capacity changed? - Has the investment
+thesis changed? - Are costs and taxes understood? - Are any holdings
+excessively concentrated?
+
+Do not confuse frequent monitoring with frequent trading. Reviewing a
+portfolio can be useful; impulsive buying and selling based on daily
+price movements can be harmful.
+
+A contract note is an official legal record of a stock-exchange
+transaction executed by a broker on behalf of an investor. The source
+notes that it includes details such as quantity, price, brokerage, taxes
+and total amount. Keep such records.
+
+31. TAX TREATMENT OF SECURITIES-MARKET INVESTMENTS
+
+The securities-market booklet explains capital gains as profit realized
+when an investment is sold at a higher price than its purchase price.
+The tax treatment presented depends on the holding period and type of
+asset.
+
+For the source’s stated framework: - Equity shares and equity-oriented
+mutual funds held for 12 months or less are treated as short-term, with
+a 20% tax rate plus cess as presented in the booklet. - Equity shares
+and equity-oriented mutual funds held for more than 12 months are
+treated as long-term, with 12.5% on gains exceeding Rs. 1.25 lakh per
+financial year, plus cess as stated. - Physical gold and real estate
+held for less than 24 months are presented as short-term and taxed at
+the marginal slab rate. - Physical gold and real estate held for more
+than 24 months are presented as long-term and taxed at 12.5% without
+indexation under the source’s stated framework. - Debt mutual funds with
+less than 35% equity exposure are presented as taxed as short-term
+capital gains at the marginal slab rate irrespective of holding
+period. - Equity-oriented hybrid funds with at least 65% equity exposure
+are presented as taxed like equity mutual funds; other, debt-heavy
+hybrid funds are presented as taxed like debt funds.
+
+Tax rules can be amended. Therefore, these figures must be treated as
+source-edition guidance and checked against the current law before
+filing or transacting.
+
+The key planning principle is to understand tax as one component of
+return. A high nominal return can produce a different after-tax result
+from a lower nominal return with a different tax treatment.
+
+============================================================ PART III -
+BANKING AND DIGITAL FINANCIAL SAFETY
+============================================================
+
+32. DEPOSIT ACCOUNTS AND GOOD BANKING PRACTICES
+
+The FAME publication describes regular savings accounts as relatively
+low-return “passive savings” and recommends considering recurring or
+fixed deposits where a better return is appropriate for the purpose.
+
+Good account-management practices include: - Take a passbook or account
+statement and check entries periodically. - Keep cheque books, if
+issued, in safe custody. - Never share internet-banking ID or
+password. - Never share a debit-card PIN. - Never share OTPs received
+for online transactions.
+
+Nomination is important. A nominee is the person entitled to receive the
+money in the bank account after the depositor’s death, in the capacity
+described by the source. Nomination facilitates quicker claim settlement
+and can reduce hardship for surviving family members.
+
+The FAME publication advises filling the nomination form when opening a
+deposit account, updating nomination details when necessary and
+obtaining acknowledgment.
+
+For term deposits, premature withdrawal may attract a penalty under the
+applicable terms. The source also recommends opting for a
+premature-withdrawal mandate for joint term deposits to facilitate claim
+settlement.
+
+The general banking rule is simple: maintain accurate records, protect
+credentials, keep contact information updated and review account
+activity.
+
+33. INOPERATIVE ACCOUNTS AND UNCLAIMED DEPOSITS
+
+FAME states that a savings or current account is treated as inoperative
+when there are no customer-induced transactions for a period of more
+than two years.
+
+Segregating inoperative accounts helps reduce fraud risk and alerts bank
+staff to the increased risk associated with such accounts.
+
+The source states that a mandate for crediting interest on a fixed
+deposit and/or dividend on shares is treated as a customer-induced
+transaction.
+
+For activation, banks have been advised to provide KYC-updation
+facilities at all branches, including non-home branches, and through
+Video-Customer Identification Process where the facility is available
+and requested. The source states that banks have to activate the account
+within three working days after complying with the applicable KYC
+requirements.
+
+The source also states that there are no charges for activation of an
+inoperative account. Interest on savings accounts continues to be
+credited regularly irrespective of whether the account is operative.
+
+Banks are required, under the source’s stated framework, to display
+lists of unclaimed deposits/inoperative accounts inactive for ten years
+or more on their websites and provide search facilities.
+
+This makes regular account monitoring important. Keeping accounts
+active, maintaining updated KYC and ensuring that family members know
+about relevant financial assets can reduce the chance that money becomes
+difficult to trace.
+
+34. PAYMENTS BANKS, SMALL FINANCE BANKS AND BUSINESS CORRESPONDENTS
+
+The FAME publication explains that Payments Banks and Small Finance
+Banks were created to promote financial inclusion through secure,
+technology-driven services.
+
+For Payments Banks, the source edition states that they can accept
+demand deposits up to Rs. 2 lakh per customer, cannot accept
+recurring/fixed deposits under the described framework, can issue
+ATM/debit cards but not credit cards, and cannot provide loans and
+advances. They may provide payment and remittance services and
+distribute mutual-fund and insurance products.
+
+Small Finance Banks are described as serving unserved and underserved
+sections and providing small-ticket loans to small business units, micro
+and small enterprises, small and marginal farmers and entities in the
+unorganized sector. The source states that at least 50% of an SFB’s loan
+portfolio has to constitute loans and advances up to Rs. 25 lakh under
+the described framework.
+
+A Business Correspondent (BC) is a bank representative or agent who
+serves customers, often in remote areas. A BC can assist with opening
+accounts, deposits and withdrawals, money transfers, collection of loan
+applications and disbursal of small-value credit.
+
+If using a BC, confirm the person’s identity and details with the bank.
+The FAME source directs customers to approach the nearest branch for
+information and mentions the BC Registry for locating BCs. Complaints
+about BC services can be made to the bank.
+
+35. RETAIL REMITTANCES
+
+Retail remittance services allow individuals to transfer money through
+formal channels. The FAME publication places retail remittances within
+its digital financial-literacy section.
+
+The key financial guideline is to use legitimate banking or regulated
+payment channels, verify beneficiary details and retain transaction
+records.
+
+Before transferring funds, check: - Recipient name. - Account number or
+identifier. - Bank or service provider. - Amount. - Purpose. -
+Transaction reference.
+
+For recurring family remittances, maintain a record of dates and
+amounts. Formal channels provide transaction evidence and support
+complaint or reconciliation processes when a problem occurs.
+
+Never allow urgency or emotional pressure to replace verification.
+Fraudsters often use emergencies, fake employment offers, fake
+investment opportunities and impersonation to induce immediate
+transfers.
+
+36. UNIFIED PAYMENTS INTERFACE (UPI)
+
+UPI is a platform for transferring money between bank accounts using a
+smartphone with internet access. The FAME publication describes use
+through BHIM, bank applications or third-party applications. It also
+mentions UPI123Pay for feature-phone users through options such as
+app-based functionality, missed call, IVR and proximity sound-based
+payments.
+
+To use UPI in the source’s described setup, the user needs a bank
+account, a mobile number linked to the bank account and a compatible
+device. A debit card linked to the account may be required for initial
+setup, and UPI can also be linked to RuPay credit cards under the
+applicable framework.
+
+The source describes benefits including instant transfers, 24/7
+availability and the use of virtual IDs to reduce the need to share
+sensitive bank-account information.
+
+UPI safety rules: DO: - Keep the UPI application updated. - Review every
+collect request before accepting. - Recheck amount and beneficiary
+before confirming.
+
+DO NOT: - Share the UPI PIN. - Transfer money without verifying the
+recipient.
+
+Remember the fundamental security distinction: receiving money does not
+normally require you to disclose your PIN. Treat any request for a PIN,
+OTP or password as a major warning sign.
+
+37. ELECTRONIC BANKING SAFETY
+
+FAME recommends typing a bank’s URL using a verified and trusted browser
+and using HTTPS-secured sites for payments. It advises using
+difficult-to-guess passwords with alphanumeric and special characters,
+changing passwords regularly and keeping payment applications updated.
+
+Register the mobile number and email address with the bank and activate
+transaction alerts. This makes unusual activity easier to detect.
+
+Avoid: - Accessing the bank through unverified search results. - Storing
+login credentials insecurely. - Entering credentials into untrusted
+portals. - Using public computers or cyber cafes for sensitive
+banking. - Transacting over unsecured or open public Wi-Fi. - Sharing
+internet-banking passwords, mobile-banking PINs or OTPs with anyone,
+including persons claiming to be bank staff.
+
+The most important response to an unauthorized transaction is speed.
+Notify the bank immediately. Keep the bank’s official contact details
+readily available rather than searching for a number after a fraud has
+already occurred.
+
+38. ATM SAFETY
+
+The FAME publication recommends using EMV chip-and-PIN debit cards
+rather than magnetic-stripe cards and advises contacting the bank for
+replacement where necessary.
+
+At an ATM: - Inspect the area for suspicious cameras or skimming
+devices. - Cover the keypad while entering the PIN. - Do not allow
+another person to observe the PIN. - Count and check the cash
+dispensed. - Collect the card before leaving. - Register the phone
+number with the card-issuing bank for transaction alerts. - Block the
+card immediately if it is lost, stolen or suspected to be compromised.
+
+Never share card number, expiry date, CVV, PIN or OTP.
+
+The source states that failed ATM transactions should be reported to the
+card-issuing bank and that banks are required, under the stated
+framework, to resolve failed ATM transactions within T+5 days or pay
+compensation at Rs. 100 per day. The exact rules should be verified
+against the current applicable framework when a dispute occurs.
+
+39. FRAUDULENT DIGITAL TRANSACTIONS AND CUSTOMER LIABILITY
+
+FAME strongly emphasizes immediate notification of fraudulent or
+unauthorized electronic transactions. The longer the delay, the greater
+the potential loss.
+
+If fraudulent transactions continue after the bank has been informed,
+the bank bears the loss under the conditions described by the source.
+The bank should provide acknowledgment of the complaint, and the source
+states that the bank must resolve the complaint within 90 days and
+credit the amount involved within 10 working days from customer
+notification under the described framework.
+
+Customer liability depends on the circumstances. If the customer is
+negligent, for example by sharing a password, PIN or OTP, the customer
+bears the loss until the bank is informed.
+
+Where there is no customer negligence and the customer reports
+immediately, the source describes zero liability within the stated
+three-working-day notification window. It also describes zero liability
+in cases of bank negligence or deficiency and certain third-party
+breaches where neither bank nor customer is at fault and the customer
+reports within the stated period.
+
+The source gives maximum-liability amounts for specified cases where the
+system breach is elsewhere and notification is delayed four to seven
+working days: - BSBD accounts: Rs. 5,000. - Certain other savings,
+prepaid instruments, MSME and specified individual
+current/cash-credit/overdraft accounts and credit cards within the
+stated limits: Rs. 10,000. - Other current/cash-credit/overdraft
+accounts and credit cards above the stated limit: Rs. 25,000.
+
+These are source-edition figures and should be checked against the
+applicable current rules.
+
+40. ACCOUNT AGGREGATOR
+
+The FAME publication describes the Account Aggregator (AA) framework as
+a mechanism through which customers can securely share financial
+information.
+
+A key feature is consent. The customer instructs the Account Aggregator
+to share financial information with Financial Information Users. The
+source states that the Account Aggregator does not see or store the
+customer’s financial information and that information is shared only
+after clear customer instructions.
+
+The framework can connect Financial Information Providers such as banks,
+NBFCs, asset-management companies, depositories, insurance companies or
+repositories and GSTN with regulated Financial Information Users.
+
+Potential benefits include faster loan processing, easier credit
+assessment, wealth management, personal-finance management and
+reconciliation. The source highlights the potential for small borrowers
+and MSMEs, including cash-flow-based lending.
+
+The central safety principle is consent. Do not approve a data-sharing
+request simply because it appears to be required for a service.
+Understand what information is being shared, with whom and for what
+purpose.
+
+41. DIGITAL LENDING APPS
+
+Digital Lending Apps are applications used to facilitate online loans.
+The FAME publication explains that legitimate apps may be associated
+with regulated banks or NBFCs or their authorized Lending Service
+Providers.
+
+Before using a digital lending app: 1. Check whether it is associated
+with an RBI-regulated bank or NBFC. 2. Verify the relationship through
+the bank or NBFC’s official website. 3. Avoid downloading apps sent
+through random SMS or social-media links. 4. Read the Key Fact
+Statement. 5. Understand the Annual Percentage Rate and total cost. 6.
+Read the sanction letter and other loan documents. 7. Review privacy and
+data-storage policies. 8. Examine app permissions before installation.
+9. Confirm that documents are digitally signed and appropriately issued.
+
+Suspicious loan apps should be reported to law-enforcement authorities
+as stated by the source.
+
+For grievances, contact the designated Grievance Redressal Officer of
+the bank/NBFC or relevant LSP. The source states that if the complaint
+is not satisfactorily resolved by the bank/NBFC within 30 days, the
+customer can use the RBI Complaint Management System under the
+applicable Ombudsman framework.
+
+42. DIGITAL RUPEE
+
+FAME describes the Digital Rupee as legal tender like physical currency.
+A Digital Rupee wallet can be used to make payments to persons or
+merchants having a Digital Rupee wallet.
+
+The source states that Digital Rupee is interoperable with UPI, allowing
+payment to merchants by scanning a UPI QR code. It also describes
+loading and redeeming Digital Rupee through the linked bank account and
+using the Digital Rupee application of a pilot bank under the framework
+described in the source.
+
+The important practical distinction is that digital payment technologies
+can differ in architecture even when the user experience appears
+similar. Users should use official applications, protect device
+credentials and avoid accepting payment instructions from unknown
+parties.
+
+Never share a PIN or OTP to “receive” a payment. Verify the recipient
+and amount before authorizing any transfer.
+
+43. CURRENCY NOTES, COINS AND THE MANI APP
+
+FAME notes that soiled, torn, damaged, mutilated or defective notes can
+be exchanged at bank branches over the counter under the applicable RBI
+Note Refund Rules referenced in the source. If a bank refuses an
+eligible exchange, a complaint can first be lodged with the bank and, if
+unresolved for the stated period, escalated through the applicable RBI
+Ombudsman mechanism.
+
+The source also explains that coins of different denominations can
+remain in circulation simultaneously because coins have long lives and
+that banks have been instructed to accept coins in transactions and
+exchange them at branches.
+
+The MANI App is described as an accessibility tool for visually impaired
+persons. It can identify the denomination of specified Mahatma Gandhi
+Series and Mahatma Gandhi New Series banknotes through audio in multiple
+languages and vibration mode. The source notes that after downloading,
+the app works offline and that it does not authenticate whether a note
+is genuine or counterfeit.
+
+44. UDGAM PORTAL
+
+UDGAM stands for Unclaimed Deposits - Gateway to Access Information.
+FAME explains that deposits remaining unclaimed for ten years are
+transferred to the Depositor Education and Awareness Fund maintained by
+RBI, subject to the applicable framework.
+
+Banks are required to display unclaimed-deposit lists on their websites.
+UDGAM was developed as a centralized search facility to help users
+search for unclaimed deposits across participating banks.
+
+The source states that users can register, search using the required
+inputs and, after a successful match, obtain an Unclaimed Deposits
+Reference Number (UDRN). The user can then approach the respective bank
+branch to claim or reactivate the account following the bank’s
+procedure.
+
+This is particularly important when family members are unaware of old
+accounts, deposits or investments. Maintain an inventory of financial
+relationships and make sure legitimate family members can locate
+necessary records.
+
+============================================================ PART IV -
+CONSUMER PROTECTION AND FRAUD PREVENTION
+============================================================
+
+45. MIS-SELLING
+
+Mis-selling occurs when a financial product is sold in a manner that
+does not match the customer’s request, needs or understanding, including
+situations where important terms are not properly explained.
+
+FAME uses an example of a customer opening a fixed deposit and being
+pushed to purchase insurance. Its guidance is clear: do not
+automatically combine savings with insurance. Assess insurance needs and
+investment requirements separately.
+
+Core rules: - Buy a product because you need it, not because an
+intermediary pressures you. - Read the application form before
+signing. - Never sign blank forms. - Ask for important terms and
+conditions in writing. - If an institution sells an unrequested product
+or fails to explain important terms, complain to the institution. - If
+the response is unsatisfactory, use the appropriate grievance mechanism.
+
+Mis-selling risk increases when the customer does not understand the
+product. Financial literacy is therefore an important
+consumer-protection tool.
+
+46. TOO-GOOD-TO-BE-TRUE OFFERS
+
+The FAME message “Too good to be True?” warns against fictitious lottery
+prizes, free-money offers and requests for bank or card details.
+
+A classic warning pattern is: “You have won money; send your bank
+details to receive it.”
+
+The source states that RBI and banks do not ask for bank-account,
+credit-card or debit-card details, PINs or OTPs through unsolicited
+email, SMS or phone calls in the manner described.
+
+RBI also does not open personal savings/current/fixed-deposit accounts
+for individuals or issue personal credit/debit cards in the manner
+described by such scams.
+
+A simple response to an unexpected financial offer is: PAUSE -> VERIFY
+-> DO NOT SHARE -> REPORT IF SUSPICIOUS.
+
+Do not let urgency, fear or greed override verification.
+
+47. SACHET AND REGULATORY VERIFICATION
+
+The FAME publication advises investing or depositing money only with
+entities registered with or regulated by the relevant authorities,
+including RBI, SEBI, IRDAI, PFRDA or the Government, depending on the
+product and activity.
+
+The source warns against schemes promising extremely high returns and
+against lenders who promise rates that appear implausibly low while
+demanding processing fees.
+
+Sachet is presented as a portal for reporting information or complaints
+regarding entities that default on repayment of deposits or money
+collected under schemes.
+
+Regulatory verification should be performed before payment, not after a
+loss. The existence of a website, logo, app or professional-looking
+certificate is not proof of legitimacy.
+
+For securities-market services, verify SEBI registration. For banking
+and lending, verify the relationship with an RBI-regulated entity. For
+insurance and pension products, verify the relevant regulated status.
+
+48. CYBER FRAUDS AND DIGITAL HYGIENE
+
+The securities-market booklet identifies several common cyber-fraud
+mechanisms: Phishing: attempts to obtain sensitive information through
+fake emails, messages or websites. Smishing: SMS-based phishing.
+Vishing: voice-based impersonation to obtain financial information.
+Malware: malicious software that can steal or lock data.
+
+A broader investment-fraud ecosystem can include fake investment
+advisers or apps, pump-and-dump schemes, social-media scams,
+unauthorized entities, chit-fund or MLM-style frauds and fake
+digital-asset platforms as described in the source.
+
+Digital hygiene means reducing the attack surface: - Use official
+websites and applications. - Keep devices and financial applications
+updated. - Use strong, unique credentials. - Do not share OTPs, PINs or
+passwords. - Avoid public or unsecured networks for sensitive banking. -
+Verify URLs and domains. - Do not install financial apps from random
+links. - Review transaction alerts. - Report suspicious activity
+quickly.
+
+The goal is not to become suspicious of every digital service. It is to
+create a verification habit before authorizing a financial action.
+
+49. PONZI AND PYRAMID SCHEMES
+
+A Ponzi scheme promises high returns with little or no risk but pays
+earlier participants using money from new participants rather than
+sustainable investment profits. It collapses when the flow of new money
+is insufficient.
+
+The securities-market booklet identifies common warning signs: -
+Unrealistic returns. - “Guaranteed” or extremely high monthly returns. -
+Referral commissions for recruiting new participants. - Vague business
+models. - Fake product names. - Pressure to invest immediately. -
+Social-media or influencer-driven hype. - Unregistered operators.
+
+A pyramid-like structure may depend heavily on recruiting new
+participants. The fact that early participants appear to receive money
+does not prove that the underlying activity is legitimate.
+
+The correct response is verification. Check registration, understand the
+business model, demand written information, avoid guaranteed-return
+claims and do not invest based only on word of mouth or social-media
+popularity.
+
+If a suspicious scheme is encountered, report it to the appropriate
+regulator, law-enforcement agency, cybercrime authority or complaint
+platform as applicable.
+
+50. INVESTOR RECORDS AND EVIDENCE
+
+Financial records are evidence. Keep copies of: - Account-opening
+documents. - Agreements. - Application forms. - Sanction letters. - Key
+Fact Statements. - Contract notes. - Account statements. - Payment
+receipts. - Email and SMS communications. - Complaint acknowledgments. -
+Transaction references. - Screenshots of suspicious communications when
+safe and appropriate.
+
+The securities-market booklet specifically recommends keeping
+agreements, application forms, account statements and communications. It
+also emphasizes regular review.
+
+When a dispute arises, a clear chronology can be decisive. Record the
+date, time, amount, beneficiary, transaction ID, communication channel
+and action taken.
+
+Do not delete fraudulent messages before recording relevant evidence. Do
+not continue communicating with a suspected scammer merely to collect
+evidence if doing so creates additional risk.
+
+51. GRIEVANCE REDRESSAL IN BANKING
+
+The FAME publication defines grievance redressal as a system for
+receiving and addressing customer complaints with emphasis on fair and
+prompt resolution.
+
+For complaints against covered RBI-regulated entities, the source
+describes an alternate grievance framework involving the RBI Ombudsman,
+Consumer Education and Protection Cells and the Consumer Education and
+Protection Department.
+
+The first step is normally to complain to the concerned regulated
+entity. If the complaint is not redressed, no reply is received within
+30 days, or the customer is dissatisfied with the reply, the customer
+may approach the RBI Ombudsman where the complaint falls within the
+applicable framework.
+
+A complaint should contain the required details and evidence that the
+regulated entity was approached. It should not already be pending or
+settled before another forum in a manner that makes the complaint
+ineligible under the scheme.
+
+The source states that there is no charge for filing or resolving a
+complaint under the RB-IOS framework and that customers need not pay
+third-party agencies to file the complaint.
+
+52. RBI COMPLAINT MANAGEMENT SYSTEM
+
+The FAME publication describes the RBI Complaint Management System (CMS)
+as a 24x7 online platform for complaints against RBI-regulated entities.
+
+The source highlights online filing because it provides acknowledgment
+and a complaint number and can support efficient handling.
+
+A strong complaint should be factual rather than emotional. State: 1.
+What happened. 2. When it happened. 3. Which account/product was
+involved. 4. What amount was affected. 5. What was communicated to the
+regulated entity. 6. What response was received. 7. What remedy is being
+requested. 8. What evidence is attached.
+
+Keep the complaint number and all subsequent correspondence.
+
+53. SECURITIES-MARKET COMPLAINTS: SCORES
+
+SCORES stands for SEBI Complaints Redress System. The securities-market
+booklet describes it as an online platform designed to facilitate
+investor complaints.
+
+The source describes features including 24x7 online access,
+acknowledgment with a unique complaint number, online tracking,
+reminders, centralized storage and audit trails, and the use of
+complaint trends by SEBI for policy and regulatory action.
+
+Examples of complaints mentioned include: - Non-receipt of dividends or
+bonus shares. - Delay in dematerialization. - Unauthorized trades by
+brokers. - High charges or mis-selling by mutual funds. - Poor advisory
+services by Investment Advisers.
+
+The source’s process can be understood as: Investor lodges complaint ->
+entity submits action taken report -> designated body may review -> SEBI
+oversight/escalation occurs under the process.
+
+The booklet states specific timelines for action and escalation. Because
+procedures can be updated, users should check the current SCORES process
+when filing.
+
+The most important rule is not to delay. Prompt reporting preserves
+evidence and improves the possibility of resolution.
+
+54. ONLINE DISPUTE RESOLUTION
+
+The securities-market booklet describes Online Dispute Resolution (ODR)
+as a SEBI initiative for resolving disputes between investors and market
+participants through digital conciliation and arbitration.
+
+The stated benefits include an entirely digital process, time-bound
+handling, accessibility and online status tracking.
+
+The source describes a three-stage concept: - Online conciliation, where
+a neutral mediator attempts to help parties reach agreement. - Online
+arbitration if conciliation does not resolve the dispute. - A final
+arbitral decision that is enforceable in law, subject to the applicable
+framework.
+
+The booklet also notes that ODR can be opted for where appropriate and
+identifies a dedicated ODR platform.
+
+Use ODR when the dispute falls within its scope and when the ordinary
+complaint process has not resolved the issue. Keep all records and
+understand the consequences of accepting a settlement or proceeding to
+arbitration.
+
+55. SAARTHI AND FINANCIAL-EDUCATION RESOURCES
+
+The securities-market booklet describes SAARTHI as SEBI’s official
+investor-education mobile application. The source says it provides
+educational content on securities-market basics, mutual funds and ETFs,
+investor rights, trading and settlement, financial calculators,
+fraud-identification tools, updates and complaint-related resources.
+
+The source lists calculators covering areas such as SIP, EMI, inflation,
+goal planning and bond yield.
+
+Financial education is itself a form of risk management. Before
+investing in a complex product, use reliable educational material to
+understand the product, then verify current regulatory requirements and
+product documents.
+
+The booklet also describes a SEBI Investor Awareness Test/Certification
+Examination conducted with NISM and notes that the initiative is
+intended to improve understanding of savings, investments and the
+securities market.
+
+============================================================ PART V -
+PRACTICAL FINANCIAL OPERATING SYSTEM
+============================================================
+
+56. A MONTHLY FINANCIAL ROUTINE
+
+A robust financial system can be operated with a repeatable monthly
+routine.
+
+WEEK 1 - INCOME CHECK Record all income received or expected. Confirm
+salary, business receipts, rent, interest and other sources.
+
+WEEK 1 - OBLIGATION CHECK List EMIs, credit-card dues, utility bills,
+school or education expenses and other mandatory payments.
+
+WEEK 1 - SAVE FIRST Transfer the planned savings amount to the
+appropriate savings or investment destination before discretionary
+spending.
+
+WEEK 2 - EXPENSE REVIEW Compare actual spending with the budget.
+Identify categories that exceeded the plan.
+
+WEEK 3 - SECURITY REVIEW Check transaction alerts and account
+statements. Investigate any transaction that you do not recognize.
+
+WEEK 4 - GOAL REVIEW Update progress toward major goals. Confirm whether
+contributions remain adequate.
+
+MONTH-END Update: - Cash balance. - Bank balance. - Emergency fund. -
+Investments. - Outstanding debt. - Net worth. - Upcoming major expenses.
+
+A financial routine works because it turns financial discipline into a
+process rather than a motivation-dependent activity.
+
+57. A GOAL-BASED INVESTMENT DECISION PROCESS
+
+Use the following sequence before investing:
+
+Step 1: DEFINE THE GOAL. Write the target amount and purpose.
+
+Step 2: DEFINE THE TIME HORIZON. Classify the goal as short, medium or
+long term according to the source framework.
+
+Step 3: BUILD THE SAFETY NET. Ensure emergency reserves and necessary
+protection are addressed.
+
+Step 4: ASSESS RISK. Determine how much volatility and potential loss
+can actually be tolerated.
+
+Step 5: CHOOSE ASSET ALLOCATION. Decide the appropriate mix rather than
+starting with a product name.
+
+Step 6: SELECT THE PRODUCT. Compare safety, liquidity, return potential,
+cost and tax treatment.
+
+Step 7: VERIFY THE PROVIDER. Use regulated intermediaries and official
+channels.
+
+Step 8: DOCUMENT THE DECISION. Record why the product was selected and
+what the intended holding period is.
+
+Step 9: MONITOR. Review periodically rather than reacting to every daily
+market movement.
+
+Step 10: REASSESS WHEN CONDITIONS CHANGE. A change in goal, income,
+debt, family responsibilities or time horizon may require a revised
+plan.
+
+58. A BORROWING DECISION PROCESS
+
+Before taking a loan, ask:
+
+1.  Is borrowing necessary?
+2.  What is the purpose?
+3.  Does the borrowing create value or support an important financial
+    objective?
+4.  Can the repayment be made on time from reliable income?
+5.  What is the total cost?
+6.  What is the annualized rate or Annual Percentage Rate where
+    applicable?
+7.  What fees and penalties exist?
+8.  What happens if income falls?
+9.  Is the lender regulated?
+10. Have the Key Fact Statement and sanction documents been read?
+11. Is an agent demanding a fee to “arrange” the loan?
+12. Is the app or lender asking for excessive personal-data permissions?
+
+Avoid borrowing to fund routine discretionary spending when repayment
+capacity is uncertain. The FAME publication specifically warns against
+irresponsible credit-card use to fund expenses.
+
+For digital lending, verify the relationship between the app and the
+regulated bank/NBFC before providing data or accepting a loan.
+
+59. A FRAUD-RESPONSE PROCESS
+
+If you suspect fraud, speed matters.
+
+IMMEDIATE ACTIONS: 1. Stop further transactions. 2. Contact the bank or
+financial institution through an official channel. 3. Block or secure
+the affected card/account if necessary. 4. Change compromised
+credentials using a trusted device. 5. Record the time and nature of the
+incident. 6. Preserve relevant transaction IDs and communications. 7.
+Obtain a complaint acknowledgment. 8. Report to the appropriate
+regulator or cybercrime/law-enforcement authority where applicable. 9.
+Follow the institution’s dispute process. 10. Escalate through the
+appropriate grievance mechanism if unresolved.
+
+Do not: - Send additional money to “unlock” a withdrawal. - Share
+another OTP to reverse a transaction. - Install remote-access software
+at an unknown caller’s request. - Trust a person merely because they
+claim to be from a bank, RBI, SEBI or police. - Delete evidence. - Delay
+reporting.
+
+A legitimate-looking interface can be fake. The securities-market
+booklet describes fake trading apps in which users see fabricated
+profits and are later asked to deposit additional money before
+withdrawal. A displayed profit is not proof that money exists.
+
+60. A FINANCIAL-HEALTH CHECKLIST
+
+Use this checklist at least periodically:
+
+INCOME [ ] All income sources identified. [ ] Income timing understood.
+[ ] Income is sufficient for current obligations.
+
+EXPENSES [ ] Essential expenses identified. [ ] Discretionary expenses
+tracked. [ ] Budget compared with actual spending. [ ] Unnecessary
+expenditure controlled.
+
+SAVINGS [ ] Save-first transfer made. [ ] Liquid savings available. [ ]
+Emergency fund progressing toward target.
+
+DEBT [ ] Every loan recorded. [ ] Interest and total repayment
+understood. [ ] EMIs paid on time. [ ] Credit-card dues controlled. [ ]
+Credit report reviewed.
+
+INVESTMENTS [ ] Every investment linked to a goal. [ ] Risk understood.
+[ ] Portfolio diversified. [ ] Provider/intermediary verified. [ ] Costs
+and taxes understood. [ ] Statements reviewed.
+
+PROTECTION [ ] Appropriate insurance needs reviewed. [ ] Retirement
+planning underway. [ ] Nominees updated where relevant.
+
+DIGITAL SECURITY [ ] Mobile number and email linked to bank. [ ] Alerts
+active. [ ] Passwords strong and unique. [ ] PINs and OTPs private. [ ]
+Financial apps updated. [ ] No credentials stored in unsafe locations.
+
+CONSUMER PROTECTION [ ] Important documents retained. [ ] Complaint
+channels known. [ ] Official regulatory resources bookmarked or
+recorded.
+
+61. COMMON FINANCIAL MISTAKES TO AVOID
+
+Mistake 1: Saving whatever is left. Correction: save first and budget
+the remainder.
+
+Mistake 2: Keeping all money in cash. Correction: consider safety,
+liquidity and the loss of purchasing power from inflation.
+
+Mistake 3: Chasing the highest return. Correction: evaluate risk and
+return together.
+
+Mistake 4: Concentrating in one investment. Correction: diversify across
+appropriate assets.
+
+Mistake 5: Borrowing without reading the fine print. Correction:
+annualize rates and understand total costs.
+
+Mistake 6: Using credit cards irresponsibly. Correction: borrow only
+within repayment capacity.
+
+Mistake 7: Ignoring credit history. Correction: pay on time and review
+credit information.
+
+Mistake 8: Treating all market volatility as permanent loss. Correction:
+distinguish normal volatility from fundamental investment risk while
+still respecting the possibility of permanent loss.
+
+Mistake 9: Buying insurance as an automatic investment add-on.
+Correction: assess insurance and investment needs separately.
+
+Mistake 10: Trusting “guaranteed” high returns. Correction: verify the
+provider and reject unrealistic promises.
+
+Mistake 11: Sharing OTPs or PINs. Correction: never share authentication
+credentials.
+
+Mistake 12: Downloading financial apps from random links. Correction:
+verify through official institutional websites.
+
+Mistake 13: Delaying fraud reporting. Correction: notify the institution
+immediately.
+
+Mistake 14: Failing to nominate. Correction: add and periodically update
+nomination information.
+
+Mistake 15: Leaving old accounts unattended. Correction: monitor
+accounts and search for unclaimed deposits when appropriate.
+
+Mistake 16: Investing without a goal. Correction: use a goal, horizon
+and risk profile as the starting point.
+
+Mistake 17: Taking social-media investment tips as professional advice.
+Correction: verify registration and conduct independent due diligence.
+
+Mistake 18: Trading complex derivatives without understanding them.
+Correction: learn the contract, risks, margin and settlement before
+participation.
+
+Mistake 19: Ignoring taxes. Correction: evaluate after-tax outcomes and
+retain transaction records.
+
+Mistake 20: Believing a professional-looking app proves legitimacy.
+Correction: verify the intermediary independently through official
+sources.
+
+62. INTEGRATED EXAMPLE
+
+Consider an individual earning Rs. 60,000 per month.
+
+The first step is not to choose a mutual fund or stock. The individual
+should list expenses, liabilities and goals.
+
+Suppose essential expenses are Rs. 30,000. A six-month emergency-fund
+target under the source booklet’s guideline would be Rs. 1,80,000.
+
+The person then identifies discretionary spending and establishes a
+realistic savings target. If a 20% savings target is affordable, that
+would be Rs. 12,000 per month. However, if a major education expense or
+loan obligation exists, the allocation should be adapted to the actual
+financial situation.
+
+Next, the person identifies goals: - Short term: build the emergency
+fund. - Medium term: purchase a vehicle. - Long term: retirement.
+
+The short-term reserve should emphasize safety and liquidity. The
+vehicle goal should use an instrument appropriate for its time horizon.
+The retirement goal can potentially include long-term investments with
+greater growth potential, provided the investor’s risk capacity allows
+it.
+
+Suppose the person considers borrowing for the vehicle. Before taking
+the loan, the borrower compares the interest rate, Annual Percentage
+Rate where applicable, processing fee, tenure, EMI, total repayment and
+early-repayment conditions.
+
+Suppose the person receives an unsolicited message promising “30%
+guaranteed monthly stock-market returns.” The offer fails the
+risk-return test and shows Ponzi/scam characteristics. The correct
+response is to stop, verify registration and avoid sending money or
+credentials.
+
+Suppose an unauthorized UPI transaction appears. The person immediately
+contacts the bank, preserves the transaction reference and obtains an
+acknowledgment. The applicable customer-liability framework is then
+determined based on whether the customer, bank or third party was
+responsible and how quickly the transaction was reported.
+
+This example demonstrates the central idea of the two publications:
+financial well-being is a system. Budgeting, saving, borrowing,
+investing, digital security and consumer protection cannot be treated as
+unrelated subjects.
+
+63. FINAL RULES
+
+RULE 1 - KNOW YOUR NUMBERS. Know income, expenses, assets, liabilities,
+savings and debt.
+
+RULE 2 - BUDGET BEFORE SPENDING. A budget turns income into a plan.
+
+RULE 3 - SAVE FIRST. Treat savings as a planned allocation.
+
+RULE 4 - KEEP AN EMERGENCY RESERVE. Do not expose essential short-term
+money to unnecessary market risk.
+
+RULE 5 - MATCH PRODUCT TO PURPOSE. The right product depends on safety,
+liquidity, return, goal and horizon.
+
+RULE 6 - UNDERSTAND INFLATION. A rising balance does not necessarily
+mean rising purchasing power.
+
+RULE 7 - RESPECT COMPOUNDING. Time and reinvestment matter.
+
+RULE 8 - BORROW RESPONSIBLY. Read the entire cost, not just the EMI.
+
+RULE 9 - PROTECT YOUR CREDIT HISTORY. Repay on time and correct
+inaccurate credit information.
+
+RULE 10 - DIVERSIFY. Do not allow one investment or sector to dominate
+without a deliberate reason.
+
+RULE 11 - DO NOT CHASE RETURNS. Higher expected return usually means
+greater risk.
+
+RULE 12 - VERIFY REGISTRATION. Use regulated entities and official
+channels.
+
+RULE 13 - NEVER SHARE OTPs, PINs OR PASSWORDS. Treat requests for
+credentials as a security warning.
+
+RULE 14 - REPORT FRAUD IMMEDIATELY. Delay can increase financial loss
+and reduce the ability to resolve the problem.
+
+RULE 15 - DOCUMENT EVERYTHING. Statements, receipts, contract notes and
+complaint numbers matter.
+
+RULE 16 - SEPARATE INSURANCE FROM INVESTMENT DECISIONS. Buy protection
+because it is needed and understand its terms.
+
+RULE 17 - INVEST ACCORDING TO YOUR GOALS. A product’s popularity is not
+a reason to own it.
+
+RULE 18 - DO NOT BELIEVE GUARANTEED HIGH RETURNS. Risk-free high-return
+claims are major warning signs.
+
+RULE 19 - USE GRIEVANCE CHANNELS. First approach the regulated entity
+where required; then escalate through the relevant mechanism.
+
+RULE 20 - KEEP LEARNING. Financial literacy is an ongoing skill, not a
+one-time qualification.
+
+64. QUICK REFERENCE CHECKLISTS
+
+BEFORE OPENING A FINANCIAL ACCOUNT [ ] Is the institution legitimate and
+appropriately regulated? [ ] Have I read the account terms? [ ] Are
+charges understood? [ ] Is nomination completed? [ ] Are mobile and
+email alerts enabled? [ ] Are credentials secure?
+
+BEFORE TAKING A LOAN [ ] Is the loan necessary? [ ] Can I repay it
+comfortably? [ ] What is the total cost? [ ] What is the annualized
+interest/APR? [ ] What are the fees and penalties? [ ] Have I read the
+Key Fact Statement where applicable? [ ] Is the lender regulated? [ ] Is
+the app verified? [ ] Am I dealing directly with an authorized
+institution or BC/LSP?
+
+BEFORE INVESTING [ ] What goal does this investment serve? [ ] What is
+the time horizon? [ ] What is my risk capacity? [ ] What can I lose? [ ]
+How liquid is the investment? [ ] Is the provider regulated? [ ] What
+are the costs? [ ] What are the tax implications? [ ] Is the portfolio
+diversified? [ ] Have I read the documents?
+
+BEFORE USING UPI [ ] Is the beneficiary correct? [ ] Is the amount
+correct? [ ] Did I initiate or intentionally accept the request? [ ] Is
+the app official and updated? [ ] Am I being asked for a PIN or OTP? [ ]
+If yes, stop.
+
+BEFORE USING A DIGITAL LENDING APP [ ] Is the associated bank/NBFC
+verified? [ ] Did I obtain the app through a trusted channel? [ ] Did I
+read the Key Fact Statement? [ ] Did I understand APR and total cost? [
+] Did I review privacy and data permissions? [ ] Is the grievance
+officer information available?
+
+IF I RECEIVE A SUSPICIOUS INVESTMENT OFFER [ ] Stop. [ ] Do not transfer
+money. [ ] Do not share credentials. [ ] Verify registration
+independently. [ ] Check the business model. [ ] Reject
+guaranteed-return promises. [ ] Preserve evidence. [ ] Report through
+the appropriate authority.
+
+IF A DIGITAL FRAUD OCCURS [ ] Stop further transactions. [ ] Notify the
+bank immediately. [ ] Block the relevant card/account if necessary. [ ]
+Secure credentials. [ ] Record transaction references. [ ] Obtain
+acknowledgment. [ ] Report to the appropriate authority. [ ] Escalate
+through the relevant complaint mechanism.
+
+IF A BANKING COMPLAINT IS NOT RESOLVED [ ] First complain to the
+concerned regulated entity. [ ] Keep the complaint number and evidence.
+[ ] Wait for or track the applicable response period. [ ] If eligible
+and unresolved, use RBI’s applicable Ombudsman/CMS mechanism. [ ] Do not
+pay unnecessary third parties to file the complaint.
+
+IF A SECURITIES-MARKET COMPLAINT IS NOT RESOLVED [ ] Complain to the
+intermediary/entity first where applicable. [ ] Preserve contract notes
+and statements. [ ] Use SCORES where appropriate. [ ] Track the
+complaint. [ ] Consider ODR where the dispute falls within its scope.
+
+SOURCE MAP
+
+FAME (RBI), Financial Awareness Messages: - Financial literacy and 5 C
+approach: introductory pages. - Budgeting, saving and responsible
+borrowing: Message 1. - Deposit accounts: Message 2. - Credit scores:
+Message 3. - Payments Banks, Small Finance Banks and Business
+Correspondents: Message 4. - Inoperative accounts: Message 5. - Interest
+on loans: Message 6. - Compounding: Message 7. - Inflation: Message 8. -
+Time value of money: Message 9. - Risk vs. return: Message 10. -
+Diversification: Message 11. - Retail remittances: Message 12. - UPI:
+Message 13. - Electronic banking safety: Message 14. - ATM safety:
+Message 15. - Fraudulent digital transactions and customer liability:
+Message 16. - Mis-selling: Message 17. - Sachet: Message 18. -
+Too-good-to-be-true offers: Message 19. - Deposit insurance: Message
+20. - Grievance redressal: Message 21. - RBI CMS: Message 22. - Relief
+from calamities: Message 23. - Account Aggregator: Message 24. - Digital
+Lending Apps: Message 25. - MANI App: Message 26. -
+Soiled/mutilated/defective notes: Message 27. - Coins: Message 28. -
+Digital Rupee: Message 29. - UDGAM: Message 30.
+
+SEBI, Fundamentals of Securities Market: - Module A: financial literacy,
+income, saving, investment, goals, budgeting, inflation, compounding,
+borrowing, asset allocation, diversification, risk-return, pension,
+insurance and emergency fund. - Module B: securities markets, ecosystem
+and SEBI. - Module C: securities-market prerequisites, investment
+products, investment do’s and don’ts, tax treatment and mutual funds. -
+Module D: digital hygiene, cyber frauds and Ponzi schemes. - Module E:
+SCORES, ODR and investor grievance mechanisms.
+
+END OF FINANCIAL GUIDELINES

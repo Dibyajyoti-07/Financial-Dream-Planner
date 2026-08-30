@@ -1,0 +1,2865 @@
+INVESTMENT CATEGORIES — FULLY DETAILED REFERENCE GUIDE
+Generated: 2026-08-30
+Approximate word count: 12,423
+Source basis: supplied SEBI 2017 categorisation PDF + AMFI Investor Knowledge Centre page
+================================================================================
+
+
+================================================================================
+INVESTMENT CATEGORIES — DETAILED INVESTOR REFERENCE GUIDE
+================================================================================
+
+Purpose
+-------
+This document is a comprehensive educational guide to investment categories in
+the Indian mutual-fund and securities-market context. It consolidates the
+categorisation framework contained in the supplied Securities and Exchange
+Board of India (SEBI) circular titled "Categorization and Rationalization of
+Mutual Fund Schemes" dated 6 October 2017 and the investor-oriented
+categorisation material published by the Association of Mutual Funds in India
+(AMFI).
+
+The principal objective is not merely to list scheme names. The objective is
+to explain what each category is designed to do, how its portfolio is
+constructed, what kind of risk it can carry, how an investor should interpret
+its label, what investment horizon may be appropriate, and what questions
+should be asked before investing.
+
+IMPORTANT REGULATORY NOTE
+-------------------------
+The supplied SEBI PDF is the 2017 categorisation circular and the supplied
+AMFI web page explicitly describes its categorisation framework as being based
+on the SEBI guidelines issued in October 2017. Mutual-fund regulation,
+portfolio limits, taxation, naming conventions, and scheme classifications can
+change. Therefore, numerical limits and descriptions reproduced here should be
+read as the framework represented by the supplied sources, not as a promise
+that every rule remains unchanged today.
+
+For an actual investment decision, the investor should read the latest Scheme
+Information Document (SID), Key Information Memorandum (KIM), factsheet,
+Riskometer, portfolio disclosure, and the latest SEBI/AMFI regulatory
+information applicable to the particular scheme.
+
+This document is educational. It is not personal investment advice, a
+guarantee of returns, a recommendation to buy any particular fund, or a
+substitute for a regulated investment adviser.
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+1.  Why Investment Categorisation Matters
+2.  The Five Broad Groups in the Supplied SEBI Framework
+3.  How to Read a Mutual-Fund Category
+4.  Equity Schemes — Overview
+5.  Multi Cap Funds
+6.  Large Cap Funds
+7.  Large & Mid Cap Funds
+8.  Mid Cap Funds
+9.  Small Cap Funds
+10. Dividend Yield Funds
+11. Value Funds
+12. Contra Funds
+13. Focused Funds
+14. Sectoral and Thematic Funds
+15. Equity Linked Savings Scheme (ELSS)
+16. Debt Schemes — Overview
+17. Overnight Funds
+18. Liquid Funds
+19. Ultra Short Duration Funds
+20. Low Duration Funds
+21. Money Market Funds
+22. Short Duration Funds
+23. Medium Duration Funds
+24. Medium to Long Duration Funds
+25. Long Duration Funds
+26. Dynamic Bond Funds
+27. Corporate Bond Funds
+28. Credit Risk Funds
+29. Banking and PSU Funds
+30. Gilt Funds
+31. Gilt Funds with 10-Year Constant Duration
+32. Floating Rate Funds
+33. Understanding Macaulay Duration
+34. Debt-Fund Risk: Interest Rate Risk and Credit Risk
+35. Hybrid Schemes — Overview
+36. Conservative Hybrid Funds
+37. Balanced Hybrid Funds
+38. Aggressive Hybrid Funds
+39. Dynamic Asset Allocation / Balanced Advantage Funds
+40. Multi Asset Allocation Funds
+41. Arbitrage Funds
+42. Equity Savings Funds
+43. Solution-Oriented Schemes
+44. Retirement Funds
+45. Children's Funds
+46. Other Schemes
+47. Index Funds
+48. Exchange Traded Funds (ETFs)
+49. Fund of Funds (FoFs)
+50. Gold ETFs and Gold-Related Structures
+51. International Funds
+52. Active vs Passive Management
+53. Open-Ended vs Close-Ended Structure
+54. Asset Allocation and Diversification
+55. Riskometer, Risk Capacity and Suitability
+56. Goal-Based Category Selection
+57. Time Horizon and Liquidity
+58. SIP vs Lump-Sum Investing
+59. Direct Plans and Regular Plans
+60. Expense Ratio and Total Cost
+61. NAV, Returns and Tracking
+62. Benchmarking and Portfolio Evaluation
+63. Category-Level Comparison Framework
+64. Common Investor Mistakes
+65. Practical Due-Diligence Checklist
+66. Example Portfolios by Objective
+67. A Category-Selection Decision Tree
+68. Glossary of Important Terms
+69. Key Takeaways
+70. Source and Regulatory Reference Notes
+
+================================================================================
+1. WHY INVESTMENT CATEGORISATION MATTERS
+================================================================================
+
+A mutual fund can contain dozens or hundreds of securities, but the investor
+usually encounters the product first through its name and category. A category
+therefore acts as a compact description of the investment mandate. It tells the
+investor whether the scheme is expected to concentrate on equity, debt, a
+combination of assets, a particular maturity profile, a particular market-cap
+segment, a sector, a theme, an index, or another fund.
+
+Categorisation matters because two schemes can both be called "mutual funds"
+while having radically different risk-return behaviour. An overnight fund and
+a small-cap equity fund are both mutual funds, but their expected volatility,
+liquidity needs, investment horizon, and principal risks are completely
+different. Similarly, a corporate-bond fund and a credit-risk fund both invest
+in debt securities, but the credit-quality profile of their portfolios can
+differ materially.
+
+The 2017 SEBI categorisation framework was designed to make schemes more
+clearly distinguishable in terms of asset allocation and investment strategy.
+The stated regulatory objective was to create greater uniformity in the
+characteristics of similar schemes so that investors could compare alternatives
+and make more informed decisions.
+
+Categorisation is therefore useful for three major reasons:
+
+1. It improves comparability.
+2. It makes the intended portfolio easier to understand.
+3. It reduces the chance that an investor selects a fund solely because of a
+   marketing name.
+
+A category is not a guarantee. A "large-cap" label does not mean the fund
+cannot fall. A "debt" label does not mean there is no possibility of loss. A
+"balanced" or "hybrid" label does not mean the NAV cannot decline. An
+"arbitrage" label does not mean returns are guaranteed. A category describes
+the mandate; it does not remove market risk.
+
+The correct way to use categorisation is therefore:
+
+GOAL -> TIME HORIZON -> RISK CAPACITY -> LIQUIDITY NEED -> ASSET CLASS ->
+CATEGORY -> SPECIFIC SCHEME -> COST -> PORTFOLIO -> MONITORING.
+
+An investor who starts with a fund name and works backwards is more likely to
+make a category mistake. An investor who starts with the financial objective
+and works forward has a better chance of choosing an appropriate category.
+
+================================================================================
+2. THE FIVE BROAD GROUPS IN THE SUPPLIED SEBI FRAMEWORK
+================================================================================
+
+The supplied 2017 SEBI circular broadly classified mutual-fund schemes into
+five groups:
+
+A. Equity Schemes
+B. Debt Schemes
+C. Hybrid Schemes
+D. Solution-Oriented Schemes
+E. Other Schemes
+
+The broad groups can be understood as follows.
+
+EQUITY SCHEMES
+-------------
+Equity schemes primarily invest in shares and equity-related instruments.
+Their principal long-term objective is generally capital appreciation. They can
+experience significant short-term volatility because equity prices respond to
+earnings expectations, economic growth, interest rates, liquidity, sentiment,
+global events, valuations, and company-specific developments.
+
+DEBT SCHEMES
+------------
+Debt schemes primarily invest in fixed-income securities and money-market
+instruments. Their risk is not simply "low" or "high"; it depends on maturity,
+duration, interest-rate sensitivity, credit quality, liquidity, issuer
+concentration, and portfolio strategy.
+
+HYBRID SCHEMES
+--------------
+Hybrid schemes combine two or more asset types, especially equity and debt.
+The purpose is to create a different risk-return profile from a pure equity or
+pure debt portfolio. The greater the equity exposure, all else equal, the
+greater the potential for equity-like volatility.
+
+SOLUTION-ORIENTED SCHEMES
+------------------------
+These schemes are designed around specific life goals. The supplied framework
+identifies retirement funds and children's funds and prescribes a lock-in
+framework.
+
+OTHER SCHEMES
+-------------
+The supplied framework includes index funds/ETFs and fund-of-funds structures.
+These schemes are often defined more by how the portfolio is implemented than
+by a traditional active stock-selection mandate.
+
+The AMFI investor page uses the same broad five-part classification and then
+explains individual categories and structures in investor-friendly language.
+
+================================================================================
+3. HOW TO READ A MUTUAL-FUND CATEGORY
+================================================================================
+
+A category should be read as a combination of six dimensions:
+
+1. ASSET CLASS
+   What does the scheme primarily own? Equity, debt, cash-like instruments,
+   commodities, other funds, or a combination?
+
+2. ALLOCATION
+   What minimum or target percentage must be invested in the relevant assets?
+
+3. STYLE
+   Does the scheme use value, growth, contrarian, arbitrage, duration,
+   credit-quality, thematic, or index-tracking strategies?
+
+4. RISK DRIVER
+   What actually causes the NAV to fluctuate? Equity prices, interest rates,
+   credit events, liquidity, currency movements, commodity prices, or
+   implementation/tracking effects?
+
+5. HORIZON
+   How long can the investment reasonably remain invested before the investor
+   needs the money?
+
+6. LIQUIDITY
+   How easily can the investor exit without being exposed to an unsuitable
+   market price, lock-in, exit load, or exchange-trading constraint?
+
+An investor should never infer risk solely from the word "debt" or "hybrid".
+For example, a long-duration debt fund can be highly sensitive to interest
+rates. A credit-risk debt fund can be sensitive to deterioration in issuer
+credit quality. A small-cap equity fund can be highly volatile because its
+underlying companies are generally smaller and can have lower liquidity.
+
+Likewise, a category that sounds defensive may still lose money. Defensive
+means relatively less exposure to a particular risk, not absence of risk.
+
+================================================================================
+4. EQUITY SCHEMES — OVERVIEW
+================================================================================
+
+Equity schemes primarily invest in equities and equity-related instruments.
+AMFI describes them as seeking long-term growth while acknowledging that they
+can be volatile in the short term. They are generally more suitable for
+investors who have a higher risk appetite and a longer investment horizon.
+
+The central economic mechanism is ownership. When an investor owns equity
+through a mutual fund, the investor participates indirectly in the economic
+performance and market valuation of the companies held by the fund.
+
+Equity returns can arise from:
+
+- capital appreciation;
+- dividends received by portfolio companies;
+- changes in valuation multiples;
+- earnings growth;
+- improvements in profitability;
+- changes in market expectations.
+
+The important distinction is that equity returns are not contractual coupon
+payments. They are market-dependent. A company can grow while its share price
+falls temporarily, and a share can rise substantially before the underlying
+business results catch up.
+
+The supplied SEBI framework includes market-cap categories, style categories,
+focused funds, sectoral/thematic funds, and ELSS. Each category changes the
+shape of the equity risk.
+
+================================================================================
+5. MULTI CAP FUNDS
+================================================================================
+
+Under the supplied 2017 framework, a Multi Cap Fund is an open-ended equity
+scheme investing across large-cap, mid-cap, and small-cap stocks, with a
+minimum investment of 65% of total assets in equity and equity-related
+instruments.
+
+The conceptual advantage is breadth. Instead of committing the entire equity
+allocation to one market-cap segment, a multi-cap strategy can participate
+across the capitalisation spectrum.
+
+LARGE CAP exposure generally offers access to established companies with
+greater scale and market visibility. MID CAP exposure provides access to
+companies that are smaller than the largest listed businesses and may have
+higher growth potential but also higher uncertainty. SMALL CAP exposure can
+provide access to still-smaller businesses with potentially substantial growth
+opportunities but greater business, liquidity, and valuation risk.
+
+The key point is that "multi cap" does not mean "risk free through
+diversification." Diversification across market-cap segments reduces
+concentration in one segment, but the portfolio remains fundamentally an
+equity portfolio.
+
+Investors should examine:
+
+- actual market-cap allocation;
+- portfolio concentration;
+- sector exposure;
+- valuation levels;
+- turnover;
+- fund-manager style;
+- benchmark;
+- performance consistency;
+- downside behaviour.
+
+A multi-cap category is often useful when the investor wants broad equity
+exposure without independently deciding how much should be allocated to each
+market-cap segment.
+
+================================================================================
+6. LARGE CAP FUNDS
+================================================================================
+
+The supplied SEBI framework defines a Large Cap Fund as an open-ended equity
+scheme predominantly investing in large-cap stocks, with a minimum investment
+of 80% of total assets in equity and equity-related instruments of large-cap
+companies.
+
+The 2017 circular defines large-cap companies as companies ranked 1st through
+100th by full market capitalisation. The ranking is not a permanent identity:
+companies can move between market-cap classifications as market values change.
+
+Large-cap funds are generally associated with businesses that have substantial
+scale, established operations, broader analyst coverage, and comparatively
+higher liquidity. These characteristics can make them less volatile than
+smaller-company equity strategies in some periods, but large-cap funds remain
+equity funds and can experience major drawdowns during broad market declines.
+
+Suitable use cases may include:
+
+- long-term wealth creation;
+- core equity allocation;
+- investors who want equity exposure with less small-company concentration;
+- investors with a long horizon who can tolerate market volatility.
+
+The investor should not interpret "large cap" as "safe." The category can
+decline sharply during bear markets. Large companies can also become
+overvalued, experience business deterioration, face regulatory problems, or
+lose competitive advantage.
+
+================================================================================
+7. LARGE & MID CAP FUNDS
+================================================================================
+
+Under the supplied framework, Large & Mid Cap Funds invest at least 35% of
+total assets in large-cap companies and at least 35% in mid-cap stocks.
+
+This creates a deliberate combination of established businesses and
+medium-sized growth opportunities. The large-cap portion can provide relative
+stability and liquidity, while the mid-cap portion can provide additional
+growth potential.
+
+The category is particularly useful for understanding why asset allocation
+matters. If an investor wants both large and mid-cap exposure, a single
+category can provide a structured approach. However, the investor should
+remember that the portfolio remains heavily equity-oriented.
+
+Potential advantages:
+
+- diversified across two market-cap segments;
+- less dependent on one segment;
+- potential balance between maturity and growth;
+- suitable for a long-term equity allocation.
+
+Potential risks:
+
+- both segments can fall together during market-wide sell-offs;
+- mid-cap valuation can become expensive;
+- large-cap exposure may still be concentrated in certain sectors;
+- category allocation rules do not guarantee superior returns.
+
+================================================================================
+8. MID CAP FUNDS
+================================================================================
+
+The supplied SEBI framework defines a Mid Cap Fund as an open-ended equity
+scheme predominantly investing in mid-cap companies, with at least 65% of
+total assets in mid-cap stocks.
+
+The supplied 2017 definition places companies ranked 101st to 250th by full
+market capitalisation in the mid-cap universe.
+
+Mid-cap companies can occupy an interesting position in the growth cycle.
+Some are established businesses expanding into new markets; others are
+emerging companies still developing their competitive advantages.
+
+This can create a favourable long-term growth opportunity, but the risk is
+higher than simply assuming that the category is a smaller version of a
+large-cap fund. Mid-cap businesses can have:
+
+- greater earnings variability;
+- smaller balance sheets;
+- higher dependence on individual business segments;
+- lower liquidity in stressed markets;
+- greater sensitivity to economic cycles.
+
+A mid-cap fund is therefore generally a long-horizon category. Investors who
+need the money soon should not select a mid-cap fund merely because its
+historical return appears attractive.
+
+================================================================================
+9. SMALL CAP FUNDS
+================================================================================
+
+The supplied SEBI framework defines a Small Cap Fund as an open-ended equity
+scheme predominantly investing in small-cap companies, with at least 65% of
+total assets in small-cap stocks.
+
+The supplied definition treats companies ranked 251st onward by full market
+capitalisation as small-cap companies.
+
+Small-cap investing can provide exposure to businesses with significant
+potential for expansion. The trade-off is that smaller companies can have
+higher operating, financing, liquidity, governance, and valuation risks.
+
+Important risk dimensions include:
+
+BUSINESS RISK:
+A smaller company may have fewer products, customers, or geographic markets.
+
+LIQUIDITY RISK:
+Shares can become harder to trade in stressed conditions, potentially
+increasing price impact.
+
+VALUATION RISK:
+Strong growth expectations can produce high valuations, making the stock
+sensitive to disappointments.
+
+EARNINGS RISK:
+A smaller company may experience larger swings in profitability.
+
+Small-cap funds can therefore be useful for a long-term, high-risk portion of
+a diversified equity portfolio. They should not automatically become the
+entire equity portfolio merely because their past returns were strong.
+
+================================================================================
+10. DIVIDEND YIELD FUNDS
+================================================================================
+
+The supplied 2017 framework describes Dividend Yield Funds as schemes that
+predominantly invest in dividend-yielding stocks and require at least 65% of
+total assets in equity.
+
+A dividend is a distribution of part of a company's profits to shareholders.
+Dividend yield is generally calculated by comparing dividends with the market
+price of the share.
+
+Dividend-focused investing can appeal to investors who value companies with a
+history or expectation of distributing cash. However, a high dividend yield
+can have multiple explanations.
+
+A company may have:
+
+- a sustainable dividend supported by strong cash flow;
+- a temporarily high yield because the share price has fallen;
+- a mature business with limited reinvestment opportunities;
+- financial stress that makes the dividend unsustainable.
+
+Therefore, dividend yield should never be treated as a standalone quality
+indicator. The investor should also examine payout sustainability, free cash
+flow, balance-sheet strength, earnings stability, and valuation.
+
+================================================================================
+11. VALUE FUNDS
+================================================================================
+
+A value fund follows a value-investing strategy. The basic idea is to identify
+securities that appear undervalued relative to the investor's assessment of
+their intrinsic or fundamental worth.
+
+A value strategy may use:
+
+- price-to-earnings ratios;
+- price-to-book ratios;
+- cash-flow measures;
+- enterprise value metrics;
+- dividend yields;
+- asset values;
+- normalized earnings;
+- qualitative assessment of competitive position.
+
+The central risk is the "value trap." A stock can look cheap because the
+market has correctly identified a structural problem. A low valuation does not
+automatically imply that the stock will recover.
+
+The supplied framework allows a mutual fund to offer either a Value Fund or a
+Contra Fund rather than both. This is an example of categorisation being used
+to distinguish similar investment styles.
+
+Value strategies often require patience because the market may take years to
+recognize a company's improving fundamentals.
+
+================================================================================
+12. CONTRA FUNDS
+================================================================================
+
+A contra fund takes a contrarian view. It seeks companies or sectors that are
+currently out of favour, depressed, or underperforming, based on the belief
+that their long-term prospects are better than current market sentiment
+suggests.
+
+The logic is:
+
+NEGATIVE SENTIMENT -> LOW VALUATION -> FUNDAMENTAL RECOVERY -> RE-RATING.
+
+The difficulty is determining whether the asset is genuinely undervalued or
+whether the market is correctly pricing permanent deterioration.
+
+Contrarian investing can therefore suffer from:
+
+- incorrect timing;
+- prolonged underperformance;
+- structural industry decline;
+- value traps;
+- opportunity cost;
+- strong bull-market performance from fashionable sectors leaving the
+  contrarian portfolio behind.
+
+AMFI notes that contra portfolios can contain beaten-down and defensive stocks
+and that the strategy can underperform in a bull market if the contrarian call
+is wrong.
+
+================================================================================
+13. FOCUSED FUNDS
+================================================================================
+
+A Focused Fund is defined in the supplied 2017 framework by concentration in
+the number of stocks: it may invest in a maximum of 30 stocks and must have at
+least 65% of total assets in equity and equity-related instruments.
+
+The key concept is concentration.
+
+A diversified portfolio spreads company-specific risk across many holdings.
+A focused portfolio accepts more company-specific risk in exchange for the
+possibility that the manager's highest-conviction ideas have greater impact on
+returns.
+
+If one stock represents a large percentage of assets and performs poorly, the
+effect on the NAV can be significant. Conversely, a successful high-conviction
+position can contribute substantially to outperformance.
+
+Investors should therefore inspect:
+
+- number of holdings;
+- top-10 concentration;
+- largest individual position;
+- sector concentration;
+- turnover;
+- historical downside;
+- manager tenure and investment process.
+
+A focused fund should not be confused with a sector fund. A focused fund
+concentrates by number of securities; a sector fund concentrates by industry.
+
+================================================================================
+14. SECTORAL AND THEMATIC FUNDS
+================================================================================
+
+Sectoral funds invest in a particular sector such as banking, technology,
+pharmaceuticals, infrastructure, or other defined industries. The supplied
+2017 framework requires at least 80% of total assets in the relevant sector or
+theme for the Sectoral/Thematic category.
+
+Thematic funds are broader than a single-sector approach. A theme might
+include infrastructure, public-sector enterprises, multinational companies,
+services, or another investment concept.
+
+The principal advantage is targeted exposure. If an investor has a strong
+long-term thesis about a sector or theme, a specialised fund provides a
+convenient vehicle.
+
+The principal disadvantage is concentration.
+
+A sector can underperform for years because of:
+
+- regulation;
+- commodity prices;
+- technological disruption;
+- demand cycles;
+- excess capacity;
+- interest rates;
+- competition;
+- changes in consumer behaviour.
+
+AMFI specifically notes that sectoral funds limit diversification and can be
+riskier. It also points out that timing can matter because sector performance
+can be cyclical.
+
+A sectoral or thematic fund should generally be treated as a satellite
+allocation rather than automatically as the core of a diversified portfolio.
+
+================================================================================
+15. EQUITY LINKED SAVINGS SCHEME (ELSS)
+================================================================================
+
+The supplied AMFI material describes ELSS as an equity-oriented tax-saving
+scheme investing at least 80% in stocks under the Equity Linked Saving Scheme
+framework. It also identifies a statutory three-year lock-in.
+
+The defining characteristics are therefore:
+
+- equity-oriented portfolio;
+- tax-saving purpose under the applicable tax framework;
+- three-year statutory lock-in;
+- market-linked returns.
+
+The three-year lock-in is important. Investors should not invest money in ELSS
+that they know they will need before the lock-in period ends.
+
+A common mistake is to view the tax benefit as making the investment safe. It
+does not. ELSS remains an equity investment and its NAV can fall.
+
+Tax provisions can change. The supplied AMFI page references a deduction under
+Section 80C; investors should verify the current income-tax regime, eligibility
+and applicable limits before relying on any tax benefit.
+
+================================================================================
+16. DEBT SCHEMES — OVERVIEW
+================================================================================
+
+Debt schemes invest primarily in bonds, government securities, money-market
+instruments, certificates of deposit, commercial paper, debentures, and other
+fixed-income instruments.
+
+Debt investing has two fundamental sources of risk:
+
+1. INTEREST-RATE RISK
+   The market value of existing bonds can change when market interest rates
+   change.
+
+2. CREDIT RISK
+   The issuer may experience financial deterioration or default, causing a
+   loss or decline in the value of the security.
+
+There can also be:
+
+- liquidity risk;
+- reinvestment risk;
+- concentration risk;
+- downgrade risk;
+- spread risk;
+- inflation risk.
+
+A debt fund therefore should not be selected only by looking at its recent
+return. The investor should examine duration, credit quality, issuer
+concentration, portfolio yield, liquidity and the economic environment.
+
+The supplied 2017 SEBI framework contains a detailed duration-based
+classification using Macaulay duration for many debt categories.
+
+================================================================================
+17. OVERNIGHT FUNDS
+================================================================================
+
+An Overnight Fund invests in overnight securities with a maturity of one day
+under the supplied framework.
+
+The very short maturity reduces the fund's exposure to changes in interest
+rates compared with longer-duration debt strategies. However, the investor
+should not interpret "overnight" as "zero risk."
+
+Potential risks can include:
+
+- counterparty risk;
+- operational risk;
+- liquidity events;
+- changes in short-term rates;
+- settlement-related issues.
+
+The category is generally designed for very short-term parking of money rather
+than long-term wealth creation.
+
+The investor's question should be:
+
+"How long do I need this money, and why am I accepting market-linked risk
+instead of using a bank deposit or another suitable cash-management option?"
+
+The answer depends on the investor's circumstances, tax position, liquidity
+needs, and product suitability.
+
+================================================================================
+18. LIQUID FUNDS
+================================================================================
+
+Under the supplied framework, a Liquid Fund invests in debt and money-market
+securities with maturity of up to 91 days.
+
+The shorter maturity profile is intended to limit interest-rate sensitivity.
+However, a liquid fund is not identical to a bank savings account or a
+guaranteed deposit. Its NAV can move, and the investor remains exposed to the
+risks inherent in the securities held.
+
+Liquid funds can be considered when the objective is short-term management of
+surplus cash and the investor understands that the product is market-linked.
+
+Important checks include:
+
+- portfolio maturity;
+- credit quality;
+- portfolio concentration;
+- fund expenses;
+- applicable exit conditions;
+- taxation;
+- recent portfolio changes.
+
+Short-term products should be judged primarily on their suitability for the
+time horizon, not on the highest recent return.
+
+================================================================================
+19. ULTRA SHORT DURATION FUNDS
+================================================================================
+
+The supplied framework defines Ultra Short Duration Funds using Macaulay
+duration of the portfolio between three and six months.
+
+The strategy sits beyond the very-shortest end of the debt spectrum. Because
+duration is longer than overnight or very short-term instruments, the NAV can
+be somewhat more sensitive to interest-rate changes.
+
+The investor should distinguish:
+
+MATURITY = the contractual time until a security repays principal.
+
+DURATION = a measure of the portfolio's sensitivity to changes in interest
+rates and the timing of cash flows.
+
+Duration is not simply the average maturity. A portfolio can have securities
+with different maturities and cash flows, producing a different duration.
+
+The category may suit investors with a short horizon who are willing to accept
+some market-linked fluctuation in exchange for the potential return associated
+with a somewhat longer portfolio.
+
+================================================================================
+20. LOW DURATION FUNDS
+================================================================================
+
+The supplied 2017 framework defines Low Duration Funds as portfolios with
+Macaulay duration between six and twelve months.
+
+As duration increases, sensitivity to interest-rate movements generally
+increases, although the actual effect depends on the portfolio structure,
+credit spreads, reinvestment and other factors.
+
+The investor should ask:
+
+- Is the money required within a year?
+- Can the NAV decline temporarily?
+- What is the portfolio's credit profile?
+- What proportion is invested in lower-rated securities?
+- Is the expected return worth the additional duration and credit risk?
+
+A low-duration category should therefore not be treated as a simple substitute
+for a fixed deposit.
+
+================================================================================
+21. MONEY MARKET FUNDS
+================================================================================
+
+A Money Market Fund invests in money-market instruments with maturity up to
+one year under the supplied framework.
+
+Money-market instruments can include instruments such as treasury bills,
+commercial paper, certificates of deposit and other eligible short-term
+instruments.
+
+The primary characteristics are:
+
+- short maturity;
+- focus on liquidity and income;
+- lower duration than long-term debt categories;
+- exposure to short-term interest rates and issuer quality.
+
+The investor should still evaluate the credit quality of the issuers. Short
+maturity does not automatically eliminate credit risk.
+
+================================================================================
+22. SHORT DURATION FUNDS
+================================================================================
+
+The supplied framework defines Short Duration Funds as investing in debt and
+money-market instruments with Macaulay duration between one and three years.
+
+This is a materially longer duration band than liquid or ultra-short
+categories. Consequently, the portfolio can experience more pronounced NAV
+changes when interest rates move.
+
+Short-duration funds may be relevant for investors with a multi-year debt
+horizon who understand interest-rate and credit risk.
+
+The category can be used for income-oriented allocations, but the investor
+should not assume a stable NAV. Bond prices fluctuate because market yields
+change.
+
+================================================================================
+23. MEDIUM DURATION FUNDS
+================================================================================
+
+Medium Duration Funds in the supplied framework target a Macaulay duration
+between three and four years.
+
+The longer duration increases sensitivity to interest-rate movements. For
+example, if market yields rise sharply, the market value of existing fixed-rate
+bonds can fall. If yields decline, existing bonds may appreciate.
+
+The exact relationship is not one-for-one in real portfolios because of
+convexity, coupon cash flows, credit spreads, reinvestment, and portfolio
+turnover.
+
+Investors should therefore use medium-duration debt funds with an appropriate
+holding period and an understanding that the NAV may fluctuate meaningfully.
+
+================================================================================
+24. MEDIUM TO LONG DURATION FUNDS
+================================================================================
+
+The supplied framework defines Medium to Long Duration Funds as having
+Macaulay duration between four and seven years.
+
+These funds can be particularly sensitive to changes in the interest-rate
+cycle.
+
+An investor expecting falling rates may be attracted to longer duration
+because bond prices can appreciate when yields fall. But the reverse is equally
+important: rising yields can create capital losses.
+
+This category therefore requires greater patience and stronger tolerance for
+mark-to-market volatility than short-duration categories.
+
+================================================================================
+25. LONG DURATION FUNDS
+================================================================================
+
+Long Duration Funds under the supplied framework have Macaulay duration
+greater than seven years.
+
+These funds are highly sensitive to interest-rate movements compared with
+shorter-duration debt categories.
+
+A useful conceptual rule is:
+
+LONGER DURATION -> GREATER SENSITIVITY TO YIELD CHANGES.
+
+That does not mean longer duration is always worse. It means the investor is
+taking a larger interest-rate view, whether intentionally or indirectly.
+
+Long-duration funds can benefit when rates fall and can suffer when rates rise.
+They are therefore not simply "safe income products." They are market-linked
+interest-rate instruments.
+
+================================================================================
+26. DYNAMIC BOND FUNDS
+================================================================================
+
+A Dynamic Bond Fund invests across duration rather than maintaining a single
+fixed duration band. The fund manager can alter portfolio maturity based on
+expectations regarding interest rates.
+
+The basic strategy is:
+
+EXPECT FALLING RATES -> potentially increase duration.
+EXPECT RISING RATES -> potentially reduce duration.
+
+The challenge is that interest-rate forecasting is difficult. A manager can be
+wrong about the timing, magnitude, or direction of rate changes.
+
+Investors should therefore evaluate:
+
+- historical duration decisions;
+- consistency of strategy;
+- fund-manager experience;
+- credit quality;
+- turnover;
+- downside performance;
+- benchmark;
+- current portfolio positioning.
+
+Dynamic management creates flexibility, but flexibility is not the same as
+certainty.
+
+================================================================================
+27. CORPORATE BOND FUNDS
+================================================================================
+
+The supplied 2017 framework defines a Corporate Bond Fund as a debt scheme with
+a minimum of 80% of total assets invested in corporate bonds of the highest
+rating category specified in the framework.
+
+The objective is to obtain corporate-bond income while maintaining a relatively
+high credit-quality orientation.
+
+Credit quality is central. Corporate bonds compensate investors for lending
+money to companies. The coupon and market price reflect the issuer's perceived
+creditworthiness, interest rates, liquidity and market conditions.
+
+Investors should review:
+
+- rating distribution;
+- issuer concentration;
+- sector concentration;
+- maturity profile;
+- yield;
+- duration;
+- changes in ratings;
+- liquidity.
+
+Even high-rated bonds are not identical to sovereign securities.
+
+================================================================================
+28. CREDIT RISK FUNDS
+================================================================================
+
+The supplied framework defines Credit Risk Funds with a minimum 65% investment
+in corporate bonds below the highest rating category specified in the
+framework.
+
+The fundamental trade-off is clear:
+
+LOWER CREDIT QUALITY -> POTENTIALLY HIGHER YIELD -> HIGHER CREDIT RISK.
+
+The investor is effectively accepting more issuer risk in pursuit of additional
+income.
+
+The central danger is that an apparently attractive yield may not compensate
+for the possibility of a downgrade, default, restructuring, or liquidity
+problem.
+
+Credit-risk funds require particularly careful monitoring of:
+
+- issuer ratings;
+- rating migration;
+- exposure to stressed sectors;
+- promoter quality where relevant;
+- concentration;
+- liquidity;
+- valuation of stressed securities.
+
+A high portfolio yield should never be interpreted as a guaranteed return.
+
+================================================================================
+29. BANKING AND PSU FUNDS
+================================================================================
+
+The supplied framework defines Banking and PSU Funds as debt schemes investing
+at least 80% of total assets in debt instruments of banks, public-sector
+undertakings and public financial institutions.
+
+The category creates issuer-type concentration. It may provide exposure to
+issuers perceived to have strong institutional backing, but the investor should
+still assess individual issuer risk and the actual portfolio.
+
+The label "PSU" should not be treated as an automatic guarantee of safety.
+Credit quality, duration, liquidity, interest-rate risk and market valuation
+remain relevant.
+
+================================================================================
+30. GILT FUNDS
+================================================================================
+
+The supplied framework defines Gilt Funds as debt schemes investing at least
+80% of total assets in government securities across maturities.
+
+Government securities reduce credit-default risk relative to many corporate
+issuers, but they do not eliminate interest-rate risk.
+
+A gilt fund can experience significant NAV volatility when market yields move,
+particularly if its portfolio has long duration.
+
+This distinction is essential:
+
+CREDIT SAFETY != PRICE STABILITY.
+
+A government bond can be expected to pay its contractual obligations while its
+market price falls because prevailing market yields rise.
+
+================================================================================
+31. GILT FUNDS WITH 10-YEAR CONSTANT DURATION
+================================================================================
+
+The supplied framework defines a Gilt Fund with 10-year constant duration as a
+scheme investing at least 80% in government securities while maintaining a
+Macaulay duration of approximately 10 years.
+
+This is a highly explicit interest-rate exposure.
+
+The category may appeal to investors who deliberately want long-duration
+government-security exposure. It is not appropriate simply because the
+underlying securities are government securities.
+
+If yields rise, long-duration bond prices generally fall more sharply than
+short-duration bond prices. If yields fall, the reverse can occur.
+
+Investors must therefore separate sovereign credit risk from interest-rate
+risk.
+
+================================================================================
+32. FLOATING RATE FUNDS
+================================================================================
+
+Floating Rate Funds invest predominantly in floating-rate instruments under
+the supplied framework, with at least 65% in floating-rate instruments.
+
+Floating-rate securities periodically reset their interest payments according
+to a reference rate. This can reduce sensitivity to changes in market yields
+relative to comparable fixed-rate securities, although it does not eliminate
+interest-rate or credit risk.
+
+Investors should examine:
+
+- reset frequency;
+- reference benchmark;
+- spread;
+- issuer quality;
+- liquidity;
+- actual portfolio composition.
+
+"Floating rate" describes the coupon mechanism, not a guarantee that the NAV
+will remain stable.
+
+================================================================================
+33. UNDERSTANDING MACAULAY DURATION
+================================================================================
+
+Macaulay duration is a weighted-average time measure of the receipt of a
+bond's cash flows. In portfolio analysis, duration is also used to understand
+sensitivity to interest-rate movements.
+
+For investors, the practical concept is more important than the mathematical
+formula:
+
+Higher duration generally means greater sensitivity to changes in market
+yields.
+
+Suppose a portfolio has a duration of approximately five years. A simplified
+rule of thumb is that a 1 percentage-point increase in yields could produce a
+roughly 5% decline in price, before considering convexity and other effects.
+This is only an approximation and should not be treated as an exact forecast.
+
+Duration helps explain why two debt funds with similar credit quality can have
+very different short-term performance.
+
+A short-duration fund and a long-duration gilt fund can both hold high-quality
+securities, yet the long-duration fund can move much more when interest rates
+change.
+
+================================================================================
+34. DEBT-FUND RISK: INTEREST RATE AND CREDIT
+================================================================================
+
+Every debt investor should separate two major risks.
+
+INTEREST-RATE RISK
+------------------
+Bond prices and market yields generally move inversely. When yields rise,
+existing fixed-rate bonds tend to fall in price. When yields fall, they tend to
+rise.
+
+The impact is generally larger for longer-duration portfolios.
+
+CREDIT RISK
+-----------
+Credit risk arises because an issuer may fail to meet its obligations or may
+be perceived as less creditworthy. A downgrade can reduce the market value of
+a bond even before an actual default.
+
+LIQUIDITY RISK
+--------------
+A security may be difficult to sell quickly without accepting a significant
+price concession.
+
+SPREAD RISK
+-----------
+Corporate-bond spreads over government securities can widen or narrow. Even if
+government yields do not move much, widening spreads can hurt corporate-bond
+prices.
+
+REINVESTMENT RISK
+-----------------
+When coupons or maturing securities are reinvested, the prevailing rates may
+be lower than the rates originally earned.
+
+A good debt-fund analysis therefore includes duration + credit + liquidity,
+not simply yield.
+
+================================================================================
+35. HYBRID SCHEMES — OVERVIEW
+================================================================================
+
+Hybrid schemes combine equity and debt, and some categories use other
+strategies or asset classes. The objective is to alter the risk-return profile
+relative to pure equity or pure debt.
+
+The key principle is:
+
+MORE EQUITY -> generally more equity-market risk.
+MORE DEBT -> generally less equity-market risk, but potentially more
+interest-rate and credit risk depending on the debt portfolio.
+
+Hybrid funds are not a single risk level. The supplied framework includes
+conservative hybrid, balanced hybrid, aggressive hybrid, dynamic asset
+allocation/balanced advantage, multi-asset allocation, arbitrage and equity
+savings.
+
+The investor should therefore read the actual allocation mandate rather than
+assuming all hybrid funds behave similarly.
+
+================================================================================
+36. CONSERVATIVE HYBRID FUNDS
+================================================================================
+
+The supplied framework specifies:
+
+- equity and equity-related instruments: 10% to 25%;
+- debt instruments: 75% to 90%.
+
+The category is therefore predominantly debt-oriented with a smaller equity
+component.
+
+The equity allocation can provide an additional source of capital appreciation
+over time, while the debt allocation can reduce equity volatility.
+
+However, the debt portion still carries interest-rate and credit risk. The
+equity portion can decline sharply in equity-market corrections.
+
+A conservative hybrid fund may suit an investor who wants a debt-dominant
+portfolio with some equity exposure, provided the investor's horizon and risk
+capacity match the product.
+
+================================================================================
+37. BALANCED HYBRID FUNDS
+================================================================================
+
+The supplied framework specifies:
+
+- equity and equity-related instruments: 40% to 60%;
+- debt instruments: 40% to 60%;
+- arbitrage is not permitted in the scheme under the supplied framework.
+
+The objective is to maintain a relatively balanced combination of growth and
+income-producing assets.
+
+A balanced allocation can reduce dependence on the performance of one asset
+class, but diversification does not eliminate losses. During a broad equity
+sell-off, the equity component can fall while the debt component may or may
+not offset the decline depending on rates and credit conditions.
+
+Investors should examine the actual asset allocation and whether the portfolio
+remains consistent with their intended risk level.
+
+================================================================================
+38. AGGRESSIVE HYBRID FUNDS
+================================================================================
+
+The supplied framework specifies:
+
+- equity and equity-related instruments: 65% to 80%;
+- debt instruments: 20% to 35%.
+
+This is an equity-dominant hybrid category. It can provide substantial equity
+exposure while maintaining a meaningful debt allocation.
+
+The debt allocation can provide diversification, but the portfolio should
+still be expected to behave substantially like an equity-oriented investment
+over long periods.
+
+The category can be considered by investors who seek growth but prefer some
+debt exposure within the same fund.
+
+The investor should not select an aggressive hybrid fund for a short-term
+financial obligation simply because it is called "hybrid."
+
+================================================================================
+39. DYNAMIC ASSET ALLOCATION / BALANCED ADVANTAGE FUNDS
+================================================================================
+
+The supplied framework describes Dynamic Asset Allocation or Balanced
+Advantage Funds as schemes in which equity and debt allocation is managed
+dynamically.
+
+The central feature is flexibility.
+
+Instead of maintaining a fixed equity percentage, the manager can change the
+mix according to valuation models, market conditions, risk indicators, or
+other stated methodology.
+
+This may help reduce exposure when valuations are considered high and increase
+exposure when valuations are considered attractive. But the success of the
+strategy depends on the model and implementation.
+
+Important questions include:
+
+- Is the allocation genuinely dynamic?
+- What quantitative or qualitative model is used?
+- How quickly can the portfolio change?
+- Does the strategy use derivatives?
+- What is the historical range of equity exposure?
+- What does the scheme's SID actually permit?
+
+The label "balanced advantage" should therefore be treated as a strategy
+description, not a guarantee of balance or downside protection.
+
+================================================================================
+40. MULTI ASSET ALLOCATION FUNDS
+================================================================================
+
+The supplied framework requires investment in at least three asset classes,
+with a minimum allocation of at least 10% in each of those three asset classes.
+Foreign securities are not treated as a separate asset class under the
+supplied circular.
+
+The purpose is broad diversification.
+
+Possible asset classes may include combinations of:
+
+- equity;
+- debt;
+- gold or other commodities where permitted;
+- other eligible assets.
+
+Multi-asset investing can reduce dependence on one economic outcome. For
+example, equities may perform differently from government bonds or gold under
+different market conditions.
+
+However, diversification should be assessed by economic exposure, not merely
+by the number of labels in a portfolio. Three asset classes that all respond
+similarly to the same macroeconomic factor may provide less diversification
+than expected.
+
+================================================================================
+41. ARBITRAGE FUNDS
+================================================================================
+
+Arbitrage is the simultaneous purchase and sale of an asset or related
+instrument to exploit a price differential.
+
+The AMFI material gives a classic example: a fund may buy a stock in the cash
+market and simultaneously sell its futures contract at a higher price,
+seeking to capture the price difference.
+
+The theoretical mechanism is:
+
+CASH MARKET PURCHASE
++
+FUTURES MARKET SALE
+=
+LOCKED-IN PRICE DIFFERENTIAL, subject to implementation and market risks.
+
+The positions are designed to offset directional market exposure.
+
+However, investors should not interpret "arbitrage" as a guarantee. Real-world
+risks include:
+
+- execution risk;
+- basis risk;
+- settlement risk;
+- liquidity;
+- transaction costs;
+- changes in spreads;
+- rollover conditions;
+- taxation;
+- operational complexity.
+
+Arbitrage funds can be useful for investors seeking a strategy that aims to
+extract relative price differences rather than simply take a directional
+equity view.
+
+================================================================================
+42. EQUITY SAVINGS FUNDS
+================================================================================
+
+The supplied framework specifies:
+
+- minimum 65% in equity and equity-related instruments;
+- minimum 10% in debt;
+- minimum hedged and unhedged portions to be stated in the SID.
+
+The category combines equity, arbitrage and debt.
+
+The hedged portion can reduce directional equity exposure while the unhedged
+portion retains market participation. The debt allocation adds another source
+of return and risk.
+
+The investor should not judge the category only by its gross equity number.
+The distinction between hedged and unhedged exposure is crucial.
+
+================================================================================
+43. SOLUTION-ORIENTED SCHEMES
+================================================================================
+
+Solution-oriented schemes are structured around a life objective rather than
+only an asset class.
+
+The supplied framework identifies:
+
+1. Retirement Fund
+2. Children's Fund
+
+The key concept is goal-based investing. A financial product becomes easier to
+evaluate when it is linked to a specific future liability.
+
+For example:
+
+RETIREMENT GOAL -> years remaining -> required corpus -> savings rate ->
+appropriate asset mix.
+
+Similarly:
+
+CHILD'S EDUCATION GOAL -> years remaining -> expected education cost ->
+inflation assumption -> required corpus -> investment plan.
+
+A solution-oriented label does not guarantee that the scheme will meet the
+goal. The investor must still estimate the required amount and periodically
+review whether the investment is on track.
+
+================================================================================
+44. RETIREMENT FUNDS
+================================================================================
+
+The supplied framework describes a Retirement Fund as an open-ended retirement
+solution-oriented scheme with a lock-in of at least five years or until
+retirement age, whichever is earlier.
+
+The key benefit of a lock-in is behavioural discipline. It can reduce the
+temptation to redeem long-term retirement investments for short-term spending.
+
+However, retirement planning should not be reduced to choosing a retirement
+fund. A complete retirement plan considers:
+
+- expected retirement age;
+- current age;
+- years to retirement;
+- current savings;
+- expected future contributions;
+- inflation;
+- post-retirement life expectancy;
+- healthcare costs;
+- housing;
+- dependants;
+- other income sources;
+- asset allocation;
+- withdrawal strategy.
+
+The scheme is one component of a retirement strategy, not the strategy itself.
+
+================================================================================
+45. CHILDREN'S FUNDS
+================================================================================
+
+The supplied framework describes a Children's Fund as an open-ended fund for
+investment for children with a lock-in of at least five years or until the
+child reaches majority, whichever is earlier.
+
+The category is intended to align investing with a long-term child-related
+objective.
+
+Parents should avoid confusing the child's age with the investment horizon.
+For example, a child who is three years old may have a long horizon for
+university expenses, while a child who is seventeen may have a very short
+horizon.
+
+As the goal approaches, risk management becomes increasingly important. A
+portfolio that is appropriate ten years before the goal may be inappropriate
+one year before the goal.
+
+Goal-based investing should therefore include a gradual reassessment of
+equity exposure, liquidity and the required corpus.
+
+================================================================================
+46. OTHER SCHEMES
+================================================================================
+
+The supplied framework places Index Funds/ETFs and Fund of Funds in the Other
+Schemes group.
+
+These structures are important because they demonstrate that mutual-fund
+classification can be based not only on the underlying asset but also on how
+the exposure is obtained.
+
+An index fund obtains market exposure by tracking an index. An ETF also tracks
+an underlying asset or index but trades on an exchange. A fund of funds obtains
+exposure by investing in other funds.
+
+The investor should therefore distinguish:
+
+WHAT DO I OWN?
+from
+HOW DO I GET THE EXPOSURE?
+
+This distinction becomes particularly important when comparing an index mutual
+fund with an ETF, or a direct fund with a fund of funds.
+
+================================================================================
+47. INDEX FUNDS
+================================================================================
+
+Index funds create a portfolio designed to mirror a market index.
+
+The supplied AMFI material explains that the securities and their weights are
+designed to correspond to the index, with only limited periodic adjustments.
+
+This is passive management.
+
+The objective is not to select the "best" stocks and outperform the index.
+Instead, the objective is to capture the performance of the chosen benchmark
+as efficiently as possible.
+
+The investor should therefore evaluate:
+
+- tracking difference;
+- tracking error;
+- expense ratio;
+- fund size;
+- liquidity;
+- index methodology;
+- portfolio replication method;
+- rebalancing;
+- taxation.
+
+A low expense ratio is useful, but cost is only one component. A fund that
+tracks its index poorly can deliver a worse investor outcome than a slightly
+more expensive fund with superior tracking.
+
+================================================================================
+48. EXCHANGE TRADED FUNDS (ETFs)
+================================================================================
+
+An ETF is a marketable security that tracks an index, commodity, bonds, or a
+basket of assets. ETFs are listed on stock exchanges and trade throughout the
+day like shares.
+
+Key differences from conventional open-ended index mutual funds include:
+
+ETF:
+- traded on an exchange;
+- market price changes throughout the day;
+- units are held in dematerialised form;
+- investor buys/sells through the market.
+
+INDEX MUTUAL FUND:
+- transactions occur with the mutual-fund mechanism;
+- investor transacts at the applicable NAV;
+- no intraday exchange trading is required.
+
+ETF investors should examine:
+
+- bid-ask spread;
+- trading volume;
+- tracking difference;
+- brokerage and other transaction costs;
+- liquidity;
+- premium/discount to NAV where relevant;
+- index methodology.
+
+An ETF can provide stock-like liquidity, but liquidity is not guaranteed at
+all times and the market price can differ from indicative underlying value.
+
+================================================================================
+49. FUND OF FUNDS (FoFs)
+================================================================================
+
+A Fund of Funds invests in units of other mutual-fund schemes or funds.
+
+This can provide convenience because one fund can package exposure to multiple
+underlying schemes.
+
+The important disadvantage is layered cost. The investor can incur expenses
+at the FoF level and expenses within the underlying funds.
+
+The investor should therefore understand:
+
+FOF EXPENSE
++
+UNDERLYING FUND EXPENSE
+=
+TOTAL ECONOMIC COST.
+
+The AMFI material notes regulatory limits on total expenses across the two
+levels for different types of underlying funds. Because regulations can change,
+the latest applicable limits should always be verified.
+
+FoFs can be useful when they provide a specific diversification or access
+benefit that is difficult to obtain directly. They are less attractive when
+they simply duplicate an exposure that can be obtained more efficiently.
+
+================================================================================
+50. GOLD ETFs AND GOLD-RELATED STRUCTURES
+================================================================================
+
+Gold ETFs are exchange-traded funds with gold as the underlying asset. The AMFI
+material explains that units represent a defined weight in gold and that the
+scheme holds gold or approved gold-related instruments.
+
+Advantages include:
+
+- electronic ownership;
+- no need to store physical gold personally;
+- reduced concern about purity and physical theft;
+- exchange-based liquidity;
+- portfolio diversification.
+
+Risks include:
+
+- gold-price volatility;
+- tracking difference;
+- market liquidity;
+- costs;
+- regulatory and taxation changes.
+
+Gold has a different economic behaviour from equity and debt, which is why it
+can be considered for diversification. However, the correct allocation depends
+on the investor's objectives and overall portfolio.
+
+Gold should not automatically replace emergency savings, fixed-income
+requirements, or long-term equity exposure.
+
+================================================================================
+51. INTERNATIONAL FUNDS
+================================================================================
+
+International funds provide exposure to markets outside India. The AMFI
+material describes possible exposure to foreign equities, ADRs/GDRs, foreign
+debt, overseas ETFs, passive index funds and actively managed foreign funds.
+
+The main potential benefit is diversification. International markets may have
+different economic cycles, sector compositions, currencies and valuations.
+
+They can also provide access to companies or industries that are less
+represented in the domestic market.
+
+However, international investing introduces additional risks:
+
+- currency risk;
+- geopolitical risk;
+- foreign taxation;
+- regulatory differences;
+- market-hour differences;
+- political and macroeconomic uncertainty;
+- country-specific risk.
+
+Currency is particularly important. Even if a foreign asset rises in its
+local currency, the investor's return in rupees can be lower if the foreign
+currency weakens against the rupee. The reverse can also occur.
+
+International funds should therefore be evaluated as both an asset-allocation
+decision and a currency-exposure decision.
+
+================================================================================
+52. ACTIVE VS PASSIVE MANAGEMENT
+================================================================================
+
+ACTIVE MANAGEMENT
+-----------------
+The fund manager attempts to select securities or allocate assets in a way
+that can outperform a benchmark or achieve a particular objective.
+
+Sources of potential value include:
+
+- security selection;
+- sector allocation;
+- duration decisions;
+- credit selection;
+- market timing;
+- valuation analysis.
+
+The cost is generally higher research and management intensity, and there is
+no guarantee of outperformance.
+
+PASSIVE MANAGEMENT
+------------------
+The fund attempts to track an index or predefined portfolio.
+
+Its strengths include:
+
+- transparency;
+- rules-based exposure;
+- generally lower management complexity;
+- reduced dependence on manager security-selection skill.
+
+Its limitations include:
+
+- inability to avoid a falling index;
+- tracking error;
+- index concentration;
+- dependence on index methodology.
+
+The choice between active and passive should depend on the investor's
+objective, category, cost sensitivity, belief in manager skill, and desired
+exposure.
+
+================================================================================
+53. OPEN-ENDED VS CLOSE-ENDED STRUCTURE
+================================================================================
+
+OPEN-ENDED SCHEMES
+------------------
+Open-ended schemes generally allow investors to purchase and redeem units on
+an ongoing basis at the applicable NAV, subject to scheme rules and applicable
+cut-off requirements.
+
+This creates flexibility and liquidity.
+
+CLOSE-ENDED SCHEMES
+-------------------
+Close-ended schemes have a fixed maturity. The supplied AMFI material explains
+that units are issued at the initial offer and redeemed on maturity, with
+listing providing an exit route before maturity.
+
+Liquidity through an exchange is not the same as guaranteed liquidity at a fair
+price. An investor selling a listed close-ended unit may have to accept the
+prevailing market price.
+
+The structure should therefore match the investor's cash-flow needs.
+
+================================================================================
+54. ASSET ALLOCATION AND DIVERSIFICATION
+================================================================================
+
+Asset allocation is the process of dividing a portfolio among asset classes.
+
+Examples:
+
+- equity;
+- debt;
+- cash-like instruments;
+- gold or other commodities;
+- international assets.
+
+Diversification is different from simply owning many securities. True
+diversification aims to reduce dependence on one source of risk.
+
+For example:
+
+10 technology stocks = concentrated.
+
+100 stocks all driven by one sector = still concentrated.
+
+One equity fund + one debt fund + one gold allocation = potentially more
+diversified, depending on the underlying exposures.
+
+However, excessive diversification can also create complexity and duplication.
+
+A good portfolio should be understandable.
+
+The investor should be able to answer:
+
+"What economic risks am I taking?"
+
+If the answer is unclear, the portfolio may be too complicated.
+
+================================================================================
+55. RISKOMETER, RISK CAPACITY AND SUITABILITY
+================================================================================
+
+The AMFI/SEBI investor framework uses the Riskometer as a tool to communicate
+the risk level of a mutual-fund scheme. The supplied PDF explains it as a
+visual tool ranging from low to very high risk.
+
+The Riskometer is useful, but investors must distinguish:
+
+SCHEME RISK
+from
+INVESTOR RISK CAPACITY.
+
+A scheme may be classified at a particular risk level, but that does not mean
+every investor can tolerate it.
+
+Risk capacity depends on:
+
+- income stability;
+- emergency savings;
+- debt obligations;
+- financial dependants;
+- investment horizon;
+- liquidity needs;
+- existing assets;
+- ability to tolerate temporary losses.
+
+Risk tolerance is psychological. Risk capacity is financial. A person may be
+comfortable with volatility but financially unable to withstand a large
+drawdown.
+
+Suitability should therefore combine both.
+
+================================================================================
+56. GOAL-BASED CATEGORY SELECTION
+================================================================================
+
+A practical selection process begins with the goal.
+
+GOAL 1: EMERGENCY MONEY
+Priority: liquidity and capital stability.
+Do not use an aggressive equity category merely because its long-term return
+looks high.
+
+GOAL 2: SHORT-TERM EXPENSE
+Priority: preservation and predictable access.
+Avoid high-volatility categories when the date of expenditure is fixed.
+
+GOAL 3: MEDIUM-TERM GOAL
+Priority: balance between growth and capital stability.
+Debt, hybrid, or carefully selected equity exposure may be considered based on
+the exact horizon.
+
+GOAL 4: LONG-TERM WEALTH CREATION
+Equity categories become more relevant because the investor has time to
+tolerate volatility.
+
+GOAL 5: RETIREMENT
+Use a complete retirement plan rather than relying on a product label.
+Long-term equity may be important during accumulation, while the approach can
+change as retirement approaches.
+
+GOAL 6: CHILD'S EDUCATION
+The investment horizon should determine risk. Reduce dependence on volatile
+assets as the education date approaches.
+
+The key principle is:
+
+THE CORRECT CATEGORY IS THE ONE THAT MATCHES THE LIABILITY, NOT THE ONE WITH
+THE HIGHEST HISTORICAL RETURN.
+
+================================================================================
+57. TIME HORIZON AND LIQUIDITY
+================================================================================
+
+Time horizon is one of the strongest category-selection filters.
+
+A short horizon leaves less time for recovery after a market decline. A long
+horizon gives the investor more time to withstand volatility.
+
+A useful conceptual framework is:
+
+VERY SHORT TERM:
+Focus on liquidity and low duration.
+
+SHORT TERM:
+Consider short-duration debt categories where suitable.
+
+MEDIUM TERM:
+Evaluate duration, credit and hybrid exposure carefully.
+
+LONG TERM:
+Equity and growth-oriented categories become more relevant.
+
+VERY LONG TERM:
+Diversified equity and multi-asset strategies may be considered depending on
+risk capacity and goals.
+
+Liquidity also matters. A fund may technically allow redemption while the
+investor still faces an exit load, market risk, tax consequences or a
+significant loss if forced to sell during a downturn.
+
+Liquidity therefore means more than "Can I click redeem?"
+
+It means:
+
+"Can I access the required amount, at the required time, without disrupting
+my financial plan?"
+
+================================================================================
+58. SIP VS LUMP-SUM INVESTING
+================================================================================
+
+A Systematic Investment Plan (SIP) is a method of investing a predetermined
+amount periodically.
+
+SIP can help with:
+
+- disciplined investing;
+- regular savings;
+- reducing dependence on one entry point;
+- behavioural consistency.
+
+SIP does not guarantee profit and does not eliminate market risk.
+
+Lump-sum investing means investing a larger amount at one time.
+
+The choice depends on:
+
+- source of funds;
+- cash-flow pattern;
+- valuation;
+- investor psychology;
+- time horizon;
+- asset allocation.
+
+For a person receiving a regular salary, SIP can align investing with income.
+For a person receiving a large one-time amount, a suitable asset-allocation
+plan may involve staged deployment if that better fits the investor's risk
+capacity and behaviour.
+
+The method of investing is secondary to choosing the right category and
+maintaining a suitable overall allocation.
+
+================================================================================
+59. DIRECT PLANS AND REGULAR PLANS
+================================================================================
+
+Mutual funds can be offered through different distribution arrangements.
+
+DIRECT PLAN
+-----------
+The investor invests without a distributor receiving a distribution
+commission from the scheme. The expense structure can therefore be lower.
+
+REGULAR PLAN
+------------
+The investor uses a distributor or intermediary, and the expense structure
+reflects the distribution arrangement.
+
+The correct choice depends on the investor's knowledge, need for assistance,
+service requirements and ability to conduct due diligence independently.
+
+A lower expense ratio is not the only factor. An investor who needs professional
+guidance should evaluate the quality and regulatory status of the adviser or
+distributor rather than selecting solely on headline cost.
+
+================================================================================
+60. EXPENSE RATIO AND TOTAL COST
+================================================================================
+
+The expense ratio is the cost charged by a mutual-fund scheme for managing and
+operating the fund, expressed as a proportion of assets.
+
+Costs matter because they compound in the opposite direction to returns.
+
+For example, if two funds generate the same gross return but one has higher
+costs, the higher-cost fund leaves less value for the investor.
+
+However, "lowest cost" should not be the only selection rule.
+
+The investor should consider:
+
+- expense ratio;
+- tracking quality;
+- portfolio implementation;
+- manager consistency;
+- service quality;
+- transaction costs;
+- taxation;
+- exit load;
+- underlying fund costs for FoFs.
+
+For an FoF, layered expenses are particularly important because the investor
+can pay for both the underlying fund and the wrapper fund.
+
+================================================================================
+61. NAV, RETURNS AND TRACKING
+================================================================================
+
+NAV means Net Asset Value per unit.
+
+A simplified conceptual formula is:
+
+NAV = (Value of assets - liabilities and expenses) / units outstanding.
+
+NAV is not itself a measure of whether a fund is "cheap" or "expensive."
+
+A fund with NAV 20 is not necessarily cheaper than a fund with NAV 200. What
+matters is the percentage return generated by the underlying portfolio and
+the investor's units.
+
+For index funds and ETFs, tracking is crucial.
+
+TRACKING ERROR:
+The variability of the difference between fund returns and index returns.
+
+TRACKING DIFFERENCE:
+The actual gap between the fund's return and the benchmark's return over a
+period.
+
+Investors should evaluate both rather than simply looking at the NAV.
+
+================================================================================
+62. BENCHMARKING AND PORTFOLIO EVALUATION
+================================================================================
+
+A fund should be evaluated against the benchmark appropriate to its category.
+
+A small-cap fund should not be judged by the return of a savings account.
+Likewise, a liquid fund should not be expected to match a small-cap equity
+fund over a long period.
+
+Evaluation should include:
+
+1. Category suitability
+2. Benchmark-relative performance
+3. Risk-adjusted performance
+4. Drawdowns
+5. Consistency
+6. Portfolio quality
+7. Costs
+8. Fund-manager continuity
+9. Investment-process consistency
+
+Past performance is not a guarantee of future results.
+
+A fund can outperform because of a temporary market regime, unusually
+favourable sector exposure, or concentrated bets that later reverse.
+
+Therefore, performance should be interpreted in context.
+
+================================================================================
+63. CATEGORY-LEVEL COMPARISON FRAMEWORK
+================================================================================
+
+When comparing two funds in the same category, use the following framework.
+
+STEP 1 — SAME CATEGORY?
+Do both funds actually have the same mandate?
+
+STEP 2 — SAME RISK?
+Compare Riskometer, duration, credit quality, market-cap exposure and
+concentration.
+
+STEP 3 — SAME OBJECTIVE?
+A fund can belong to the same category but use different implementation styles.
+
+STEP 4 — COST
+Compare expense ratios and other relevant costs.
+
+STEP 5 — PORTFOLIO
+Look at holdings, sectors, ratings, maturities and concentration.
+
+STEP 6 — PERFORMANCE
+Compare category and benchmark performance over multiple periods.
+
+STEP 7 — DOWNSIDE
+Examine drawdowns and behaviour in stressed markets.
+
+STEP 8 — CONSISTENCY
+Check whether the fund has followed its stated strategy.
+
+STEP 9 — LIQUIDITY
+Assess how suitable the scheme is for the investor's cash-flow needs.
+
+STEP 10 — DOCUMENTATION
+Read the latest SID, KIM, factsheet and portfolio disclosure.
+
+This process is superior to choosing a fund because it appears frequently in
+social-media recommendations.
+
+================================================================================
+64. COMMON INVESTOR MISTAKES
+================================================================================
+
+MISTAKE 1: CHASING THE HIGHEST RETURN
+A category with high historical returns may also have high downside risk.
+
+MISTAKE 2: CONFUSING DEBT WITH GUARANTEE
+Debt funds can lose value.
+
+MISTAKE 3: CONFUSING LARGE CAP WITH SAFE
+Large-cap funds are still equity funds.
+
+MISTAKE 4: IGNORING HORIZON
+A long-term product can be unsuitable for a short-term liability.
+
+MISTAKE 5: OVER-DIVERSIFICATION
+Owning many overlapping funds may create complexity without adding meaningful
+diversification.
+
+MISTAKE 6: BUYING A SECTOR FUND AS A CORE PORTFOLIO
+Sector concentration can create severe cyclicality.
+
+MISTAKE 7: IGNORING CREDIT QUALITY
+Debt-fund yield must be considered together with credit risk.
+
+MISTAKE 8: IGNORING DURATION
+A debt fund's duration can materially affect NAV volatility.
+
+MISTAKE 9: TREATING ARBITRAGE AS GUARANTEED
+Market and implementation risks remain.
+
+MISTAKE 10: IGNORING TAXATION
+Tax treatment can affect the actual investor return.
+
+MISTAKE 11: SELECTING ONLY BY NAV
+A low NAV does not mean a fund is cheap.
+
+MISTAKE 12: SELECTING ONLY BY EXPENSE RATIO
+Tracking quality and portfolio implementation also matter.
+
+MISTAKE 13: BUYING BASED ON A MARKETING NAME
+Always read the scheme mandate.
+
+MISTAKE 14: FAILING TO REVIEW GOALS
+A portfolio suitable at age 25 may not be suitable immediately before
+retirement.
+
+MISTAKE 15: PANIC REDEMPTION
+Selling solely because markets fall can convert temporary volatility into a
+permanent loss.
+
+================================================================================
+65. PRACTICAL DUE-DILIGENCE CHECKLIST
+================================================================================
+
+Before investing in any mutual-fund category, ask:
+
+CATEGORY
+--------
+[ ] What is the official category?
+[ ] What assets must the scheme hold?
+[ ] What minimum allocation applies?
+[ ] What is the investment objective?
+
+RISK
+----
+[ ] What is the Riskometer level?
+[ ] What is the main source of risk?
+[ ] What is the maximum plausible drawdown?
+[ ] Does the investor have sufficient risk capacity?
+
+EQUITY-SPECIFIC
+---------------
+[ ] Large, mid, small or mixed?
+[ ] Sector concentration?
+[ ] Top-10 concentration?
+[ ] Valuation exposure?
+
+DEBT-SPECIFIC
+-------------
+[ ] Macaulay duration?
+[ ] Average maturity?
+[ ] Credit-rating distribution?
+[ ] Top issuers?
+[ ] Liquidity?
+[ ] Any stressed or downgraded exposure?
+
+HYBRID-SPECIFIC
+---------------
+[ ] Equity percentage?
+[ ] Debt percentage?
+[ ] Hedged exposure?
+[ ] Dynamic allocation methodology?
+[ ] Other asset classes?
+
+PASSIVE-SPECIFIC
+----------------
+[ ] Which index?
+[ ] Tracking error?
+[ ] Tracking difference?
+[ ] Expense ratio?
+[ ] Liquidity?
+
+COST
+----
+[ ] Expense ratio?
+[ ] Exit load?
+[ ] Transaction costs?
+[ ] FoF layered expenses?
+
+LIQUIDITY
+---------
+[ ] Open-ended or close-ended?
+[ ] Lock-in?
+[ ] Redemption conditions?
+[ ] Exchange liquidity if applicable?
+
+DOCUMENTS
+---------
+[ ] SID read?
+[ ] KIM read?
+[ ] Latest factsheet reviewed?
+[ ] Latest portfolio reviewed?
+[ ] Riskometer reviewed?
+[ ] Benchmark understood?
+
+================================================================================
+66. EXAMPLE PORTFOLIOS BY OBJECTIVE
+================================================================================
+
+The following are educational illustrations, not personalized recommendations.
+
+EXAMPLE A — EMERGENCY RESERVE
+-----------------------------
+Objective: maintain money for unexpected expenses.
+
+Primary consideration: liquidity and capital preservation.
+
+A volatile small-cap fund would generally be inappropriate for the core
+emergency reserve because the investor may need to sell during a market fall.
+
+EXAMPLE B — FIVE-YEAR MEDIUM-TERM GOAL
+--------------------------------------
+Objective: fund a known future expense.
+
+The investor should avoid taking more equity risk than can be tolerated if the
+market declines near the target date.
+
+A combination of suitable debt and hybrid exposure may be considered depending
+on the exact circumstances.
+
+EXAMPLE C — FIFTEEN-YEAR WEALTH CREATION
+-----------------------------------------
+Objective: long-term capital appreciation.
+
+A diversified equity allocation may be more relevant because the long horizon
+provides greater capacity to withstand short-term volatility.
+
+Potential categories include broad equity categories rather than relying
+entirely on sectoral funds.
+
+EXAMPLE D — RETIREMENT ACCUMULATION
+-----------------------------------
+Objective: build a retirement corpus.
+
+The investor should combine long-term growth assets with risk management,
+reviewing the allocation as retirement approaches.
+
+EXAMPLE E — GLOBAL DIVERSIFICATION
+----------------------------------
+Objective: obtain exposure outside India.
+
+International funds may provide geographic diversification, but currency and
+foreign-market risks must be understood.
+
+EXAMPLE F — PORTFOLIO DIVERSIFICATION WITH GOLD
+------------------------------------------------
+Objective: reduce dependence on equity and domestic financial assets.
+
+A gold-related allocation may provide a different return driver, but the
+appropriate percentage depends on the investor's overall portfolio.
+
+================================================================================
+67. A CATEGORY-SELECTION DECISION TREE
+================================================================================
+
+QUESTION 1:
+Do you need the money very soon?
+
+YES -> prioritize liquidity and short-duration products where appropriate.
+NO -> continue.
+
+QUESTION 2:
+Is the goal long-term wealth creation?
+
+YES -> examine equity categories.
+NO -> continue.
+
+QUESTION 3:
+Do you want a combination of equity and debt?
+
+YES -> examine hybrid categories.
+NO -> continue.
+
+QUESTION 4:
+Do you want primarily debt exposure?
+
+YES -> examine debt categories and identify the main risk:
+duration or credit.
+
+QUESTION 5:
+Do you specifically want market-cap diversification?
+
+YES -> examine multi-cap or large-and-mid-cap categories.
+
+QUESTION 6:
+Do you specifically want a market-cap segment?
+
+YES -> examine large-cap, mid-cap or small-cap categories.
+
+QUESTION 7:
+Do you want a sector/theme?
+
+YES -> examine sectoral/thematic funds, but recognize concentration risk.
+
+QUESTION 8:
+Do you want passive market exposure?
+
+YES -> examine index funds or ETFs.
+
+QUESTION 9:
+Do you want exposure through another fund?
+
+YES -> examine FoFs and compare layered costs.
+
+QUESTION 10:
+Do you want a life-goal-oriented scheme?
+
+YES -> examine solution-oriented categories while also building a broader
+goal-based plan.
+
+The decision tree is intentionally simple. The final choice should always be
+validated against the current scheme documents.
+
+================================================================================
+68. GLOSSARY OF IMPORTANT TERMS
+================================================================================
+
+ASSET ALLOCATION
+The distribution of investments across asset classes.
+
+BENCHMARK
+A reference index used to evaluate the performance of a scheme.
+
+BOND
+A debt security representing borrowing by an issuer.
+
+CREDIT RISK
+Risk that an issuer's ability to repay deteriorates.
+
+DEBT FUND
+A mutual fund primarily investing in fixed-income securities.
+
+DURATION
+A measure of the sensitivity of bond prices to interest-rate movements.
+
+EQUITY
+Ownership interest in a company.
+
+ETF
+Exchange Traded Fund; a fund whose units trade on an exchange.
+
+ELSS
+Equity Linked Savings Scheme, a tax-saving equity-oriented mutual-fund
+category under the applicable framework.
+
+EXPENSE RATIO
+The ongoing expense charged by a mutual-fund scheme.
+
+FoF
+Fund of Funds.
+
+GILT FUND
+A fund investing predominantly in government securities under the applicable
+category rules.
+
+HYBRID FUND
+A fund combining equity and debt or other eligible assets.
+
+INDEX FUND
+A passive fund designed to track an index.
+
+LIQUIDITY RISK
+Risk that an asset cannot be sold promptly at a reasonable price.
+
+MACAULAY DURATION
+A weighted-average time measure of bond cash flows and a foundation for
+understanding interest-rate sensitivity.
+
+MARKET CAPITALISATION
+The market value of a company's outstanding equity.
+
+MID CAP
+Under the supplied 2017 framework, companies ranked 101st to 250th by full
+market capitalisation.
+
+NAV
+Net Asset Value per mutual-fund unit.
+
+PASSIVE MANAGEMENT
+Management intended to track a specified index or predefined portfolio.
+
+RISKOMETER
+A disclosure tool indicating the risk level of a mutual-fund scheme.
+
+SECTORAL FUND
+A fund concentrated in a specific sector.
+
+SIP
+Systematic Investment Plan.
+
+SMALL CAP
+Under the supplied 2017 framework, companies ranked 251st onward by full
+market capitalisation.
+
+THEMATIC FUND
+A fund investing around a broader theme rather than one narrow sector.
+
+TRACKING ERROR
+A measure of the variability of the difference between fund and benchmark
+returns.
+
+TRACKING DIFFERENCE
+The actual return gap between a passive fund and its benchmark.
+
+VALUE INVESTING
+An investment approach seeking securities that appear undervalued relative to
+fundamental value.
+
+================================================================================
+69. KEY TAKEAWAYS
+================================================================================
+
+1. A mutual-fund category is a mandate, not a return guarantee.
+
+2. Equity categories are generally designed for long-term capital appreciation
+   but can be volatile.
+
+3. Large-cap, mid-cap and small-cap categories differ primarily by the market
+   capitalisation universe and consequently have different risk characteristics.
+
+4. Sectoral and thematic funds can be substantially more concentrated than
+   diversified equity funds.
+
+5. Value and contra strategies depend on the manager correctly identifying
+   undervaluation or a future reversal.
+
+6. Focused funds increase the impact of individual stock selection.
+
+7. ELSS combines equity exposure with a statutory lock-in and applicable tax
+   provisions; tax rules must be verified for the relevant year.
+
+8. Debt funds have interest-rate risk and credit risk. They are not guaranteed
+   deposits.
+
+9. Duration is a central concept for understanding debt-fund volatility.
+
+10. Credit-risk funds deliberately accept lower credit quality in pursuit of
+    potentially higher income.
+
+11. Gilt funds reduce corporate credit exposure but remain sensitive to
+    interest-rate movements.
+
+12. Hybrid funds differ materially depending on their equity allocation and
+    strategy.
+
+13. Dynamic asset-allocation funds depend on the effectiveness of their
+    allocation methodology.
+
+14. Arbitrage funds seek to exploit price differentials but are not
+    risk-free guarantees.
+
+15. Multi-asset funds diversify across asset classes but should still be
+    analysed for the actual economic exposures.
+
+16. Index funds and ETFs are passive vehicles, but tracking quality matters.
+
+17. ETFs trade on exchanges and have market-price, liquidity and trading-cost
+    considerations.
+
+18. FoFs can create layered expenses.
+
+19. International funds add geographic diversification but introduce currency
+    and foreign-market risks.
+
+20. Solution-oriented schemes should be assessed against the underlying
+    financial goal rather than the product label alone.
+
+21. The correct category depends on goal, horizon, liquidity and risk capacity.
+
+22. Past returns should never be the sole selection criterion.
+
+23. The latest SID, KIM, portfolio, Riskometer and regulatory information
+    should be checked before investing.
+
+24. Diversification reduces concentration risk; it does not eliminate market
+    risk.
+
+25. The best investment category is not necessarily the one with the highest
+    return. It is the one whose risk, liquidity and expected behaviour are
+    compatible with the investor's objective.
+
+================================================================================
+70. SOURCE AND REGULATORY REFERENCE NOTES
+================================================================================
+
+PRIMARY SUPPLIED PDF
+--------------------
+Securities and Exchange Board of India (SEBI), Circular
+SEBI/HO/IMD/DF3/CIR/P/2017/114, dated 6 October 2017, titled
+"Categorization and Rationalization of Mutual Fund Schemes."
+
+The circular explains that schemes should be clearly distinct in asset
+allocation and investment strategy and that similar schemes should have
+uniform characteristics to help investors compare alternatives. It establishes
+the five broad groups: Equity, Debt, Hybrid, Solution Oriented and Other
+Schemes.
+
+The circular defines the supplied 2017 large-cap, mid-cap and small-cap
+universe as follows:
+
+- Large Cap: 1st to 100th company by full market capitalisation.
+- Mid Cap: 101st to 250th company.
+- Small Cap: 251st company onwards.
+
+It also states that the stock list would be prepared by AMFI, updated every
+six months using June and December data, and that mutual funds would rebalance
+where required within one month after an update.
+
+The circular's annexure provides the detailed category characteristics used
+throughout this document. The supplied PDF is eight pages long; its annexure
+appears on pages 4 through 8. The tables cover equity, debt, hybrid,
+solution-oriented and other schemes.
+
+AMFI INVESTOR KNOWLEDGE CENTRE
+------------------------------
+The second source is the AMFI Investor Corner page titled
+"Categorization of Mutual Fund Schemes." It explains the same broad
+categorisation in investor-oriented language and provides explanatory material
+on sectoral funds, thematic funds, value and contra strategies, ELSS, debt
+categories, hybrid funds, multi-asset funds, arbitrage funds, index funds,
+ETFs, FoFs, Gold ETFs and international funds.
+
+The AMFI page also provides a useful distinction between passive index funds
+and exchange-traded funds, and explains the practical characteristics and risks
+of international funds.
+
+HOW TO USE THIS DOCUMENT
+------------------------
+Use this file as a study and reference document. For actual investing:
+
+1. Identify the financial goal.
+2. Determine the time horizon.
+3. Determine risk capacity and liquidity needs.
+4. Select an appropriate asset class.
+5. Select a category.
+6. Compare schemes within that category.
+7. Read the latest scheme documents.
+8. Check costs and taxation.
+9. Verify current regulatory requirements.
+10. Review the portfolio periodically.
+
+CURRENT-RULE VERIFICATION
+-------------------------
+The 2017 circular is the historical source supplied for this document. SEBI
+has subsequently issued additional circulars and consolidated mutual-fund
+requirements. Therefore, readers should not assume that every numerical
+threshold or category description in this educational file is the latest
+operative rule. In particular, current scheme categorisation and portfolio
+requirements should be checked against the latest SEBI master circulars,
+circulars and the current AMFI investor information before making an investment.
+
+FINAL DISCLAIMER
+----------------
+Mutual funds are subject to market risks. The value of investments can go up
+or down. Past performance is not indicative of future performance. Category
+definitions do not guarantee returns, capital preservation, liquidity, or
+achievement of a financial goal. Investors should make decisions based on
+their own objectives, risk profile, time horizon, liquidity requirements and
+the latest official scheme documents.
+
+================================================================================
+END OF INVESTMENT CATEGORIES GUIDE
+================================================================================
+
+
+================================================================================
+APPENDIX A — CATEGORY COMPARISON MAP
+================================================================================
+
+EQUITY FAMILY
+-------------
+Multi Cap
+    Core idea: broad exposure across large, mid and small companies.
+    Main risk: equity-market and valuation risk.
+    Typical horizon: long term.
+
+Large Cap
+    Core idea: predominantly large established companies.
+    Main risk: equity-market and valuation risk.
+    Typical horizon: long term.
+
+Large & Mid Cap
+    Core idea: meaningful allocation to both large and mid-cap companies.
+    Main risk: equity volatility plus mid-cap concentration.
+    Typical horizon: long term.
+
+Mid Cap
+    Core idea: predominantly mid-sized companies.
+    Main risk: higher business and valuation volatility.
+    Typical horizon: long term.
+
+Small Cap
+    Core idea: predominantly smaller listed companies.
+    Main risk: high volatility, liquidity and business risk.
+    Typical horizon: long term and high risk capacity.
+
+Dividend Yield
+    Core idea: dividend-yielding companies.
+    Main risk: equity risk and sustainability of dividends.
+    Typical horizon: long term.
+
+Value
+    Core idea: undervalued companies based on a value strategy.
+    Main risk: value traps and long periods of underperformance.
+    Typical horizon: long term.
+
+Contra
+    Core idea: out-of-favour companies/sectors expected to recover.
+    Main risk: incorrect contrarian call and timing.
+    Typical horizon: long term.
+
+Focused
+    Core idea: concentrated stock portfolio.
+    Main risk: company-specific concentration.
+    Typical horizon: long term.
+
+Sectoral/Thematic
+    Core idea: targeted sector or theme.
+    Main risk: concentration and cyclicality.
+    Typical horizon: long term, with strong risk tolerance.
+
+ELSS
+    Core idea: equity-linked tax-saving scheme.
+    Main risk: equity volatility plus lock-in.
+    Typical horizon: at least the statutory lock-in, preferably longer for
+    equity risk management.
+
+DEBT FAMILY
+-----------
+Overnight
+    Core idea: one-day maturity securities.
+    Main risk: short-term market, counterparty and operational risk.
+    Typical use: very short-term cash management.
+
+Liquid
+    Core idea: debt and money-market securities up to 91 days under the
+    supplied framework.
+    Main risk: credit, liquidity and short-term market risk.
+    Typical use: short-term surplus.
+
+Ultra Short Duration
+    Core idea: 3–6 month Macaulay duration.
+    Main risk: interest-rate and credit risk.
+    Typical use: short-term to moderately short horizon.
+
+Low Duration
+    Core idea: 6–12 month Macaulay duration.
+    Main risk: interest-rate and credit risk.
+    Typical use: short-term horizon.
+
+Money Market
+    Core idea: money-market instruments up to one year.
+    Main risk: issuer, liquidity and short-term rate risk.
+    Typical use: short-term income/liquidity.
+
+Short Duration
+    Core idea: 1–3 year Macaulay duration.
+    Main risk: interest-rate and credit risk.
+    Typical use: medium-short horizon.
+
+Medium Duration
+    Core idea: 3–4 year Macaulay duration.
+    Main risk: greater rate sensitivity.
+    Typical use: medium horizon.
+
+Medium to Long Duration
+    Core idea: 4–7 year Macaulay duration.
+    Main risk: substantial interest-rate sensitivity.
+    Typical use: investors able to tolerate rate-cycle volatility.
+
+Long Duration
+    Core idea: more than 7 years Macaulay duration.
+    Main risk: high interest-rate sensitivity.
+    Typical use: deliberate long-duration allocation.
+
+Dynamic Bond
+    Core idea: manager changes duration across the curve.
+    Main risk: manager's rate call and credit risk.
+    Typical use: investors comfortable with active duration management.
+
+Corporate Bond
+    Core idea: predominantly highest-rated corporate bonds under the supplied
+    framework.
+    Main risk: credit spread and interest-rate risk.
+    Typical use: income-oriented debt allocation.
+
+Credit Risk
+    Core idea: meaningful exposure to lower-than-highest-rated corporate bonds.
+    Main risk: downgrade/default/credit-spread risk.
+    Typical use: higher-risk debt allocation.
+
+Banking and PSU
+    Core idea: debt of banks, PSUs and public financial institutions.
+    Main risk: interest-rate, issuer and concentration risk.
+    Typical use: targeted high-quality debt exposure.
+
+Gilt
+    Core idea: government securities.
+    Main risk: interest-rate risk.
+    Typical use: sovereign debt exposure.
+
+Gilt 10-Year Constant Duration
+    Core idea: government securities with approximately 10-year duration.
+    Main risk: high interest-rate sensitivity.
+    Typical use: deliberate long-duration positioning.
+
+Floater
+    Core idea: floating-rate instruments.
+    Main risk: credit, spread and residual interest-rate risk.
+    Typical use: investors seeking floating-rate exposure.
+
+HYBRID FAMILY
+-------------
+Conservative Hybrid
+    Equity: 10–25%; Debt: 75–90% in supplied 2017 framework.
+    Main risk: debt risk plus limited equity volatility.
+
+Balanced Hybrid
+    Equity: 40–60%; Debt: 40–60%.
+    Main risk: balanced exposure but still market-linked.
+
+Aggressive Hybrid
+    Equity: 65–80%; Debt: 20–35%.
+    Main risk: predominantly equity-market risk.
+
+Dynamic Asset Allocation / Balanced Advantage
+    Core idea: dynamically managed equity/debt mix.
+    Main risk: allocation model and market risk.
+
+Multi Asset Allocation
+    Core idea: at least three asset classes with minimum 10% in each under the
+    supplied framework.
+    Main risk: depends on all underlying assets.
+
+Arbitrage
+    Core idea: capture price differentials between related markets.
+    Main risk: execution, basis, liquidity and implementation risk.
+
+Equity Savings
+    Core idea: equity + arbitrage + debt with hedged/unhedged exposure.
+    Main risk: equity, implementation and debt risk.
+
+SOLUTION-ORIENTED
+-----------------
+Retirement Fund
+    Core idea: retirement-focused investing with lock-in.
+    Main risk: depends on underlying portfolio.
+    Key issue: must be integrated into a complete retirement plan.
+
+Children's Fund
+    Core idea: child-focused long-term investing with lock-in.
+    Main risk: depends on underlying portfolio.
+    Key issue: match risk to the education/goal date.
+
+OTHER
+-----
+Index Fund
+    Core idea: passive tracking of an index.
+    Main risk: index decline and tracking difference.
+
+ETF
+    Core idea: exchange-traded exposure to an index, commodity, bond basket or
+    other underlying asset.
+    Main risk: underlying asset plus trading/liquidity and tracking effects.
+
+FoF
+    Core idea: invests in other funds.
+    Main risk: underlying fund risk plus layered expenses.
+
+Gold ETF
+    Core idea: electronic gold exposure.
+    Main risk: gold-price and tracking risk.
+
+International Fund
+    Core idea: foreign-market exposure.
+    Main risk: foreign-market, currency and geopolitical risk.
+
+================================================================================
+APPENDIX B — THE FIVE MOST IMPORTANT QUESTIONS FOR EVERY CATEGORY
+================================================================================
+
+QUESTION 1:
+What exactly does this fund have to own?
+
+QUESTION 2:
+What is the main source of loss?
+
+QUESTION 3:
+How long can I realistically remain invested?
+
+QUESTION 4:
+What happens if I need the money during a market downturn?
+
+QUESTION 5:
+What does the latest official scheme document say?
+
+If an investor cannot answer these five questions, the category should not yet
+be considered fully understood.
+
+================================================================================
+APPENDIX C — RED FLAGS
+================================================================================
+
+Treat the following as reasons for additional investigation:
+
+- choosing a fund solely because it was the top performer last year;
+- assuming a high return is a low-risk return;
+- treating a debt fund as a guaranteed deposit;
+- ignoring credit quality because a fund has a high rating overall;
+- ignoring duration;
+- buying a sectoral fund because the sector is currently fashionable;
+- owning several funds with almost identical portfolios;
+- buying an ETF without checking its trading liquidity;
+- buying an FoF without checking total layered expenses;
+- assuming an international fund eliminates currency risk;
+- assuming a hybrid fund cannot fall;
+- assuming arbitrage means guaranteed profit;
+- ignoring lock-in periods;
+- ignoring tax rules;
+- investing without reading the scheme objective;
+- relying on social-media screenshots instead of official disclosures.
+
+================================================================================
+APPENDIX D — A SIMPLE INVESTOR WORKSHEET
+================================================================================
+
+FINANCIAL GOAL:
+____________________________________________________________
+
+TARGET AMOUNT:
+____________________________________________________________
+
+TARGET DATE:
+____________________________________________________________
+
+YEARS REMAINING:
+____________________________________________________________
+
+MONTHLY INVESTABLE AMOUNT:
+____________________________________________________________
+
+CURRENT INVESTMENT CORPUS:
+____________________________________________________________
+
+EMERGENCY RESERVE AVAILABLE:
+____________________________________________________________
+
+HIGH-INTEREST DEBT:
+____________________________________________________________
+
+RISK CAPACITY:
+LOW / MODERATE / HIGH
+
+LIQUIDITY NEED:
+LOW / MODERATE / HIGH
+
+PREFERRED ASSET CLASS:
+____________________________________________________________
+
+PREFERRED CATEGORY:
+____________________________________________________________
+
+WHY THIS CATEGORY:
+____________________________________________________________
+____________________________________________________________
+
+MAIN RISK:
+____________________________________________________________
+
+EXPECTED HOLDING PERIOD:
+____________________________________________________________
+
+EXPENSE RATIO:
+____________________________________________________________
+
+EXIT LOAD:
+____________________________________________________________
+
+BENCHMARK:
+____________________________________________________________
+
+LATEST RISKOMETER:
+____________________________________________________________
+
+LATEST PORTFOLIO REVIEWED:
+YES / NO
+
+LATEST SID/KIM REVIEWED:
+YES / NO
+
+TAX IMPLICATION VERIFIED:
+YES / NO
+
+FINAL DECISION:
+____________________________________________________________
+
+================================================================================
+APPENDIX E — STUDY NOTES FROM THE SUPPLIED PDF
+================================================================================
+
+The supplied PDF's page 1 states the regulatory purpose of categorisation:
+schemes should be distinct in terms of asset allocation and investment
+strategy, and similar schemes should have uniform characteristics so investors
+can compare them.
+
+Page 2 contains the market-cap definitions and the process for maintaining the
+AMFI stock list. It specifies the 1–100 large-cap, 101–250 mid-cap and 251+
+small-cap framework represented in the 2017 circular. It also describes the
+exception to the one-scheme-per-category principle for different indices,
+different FoF underlying schemes, and different sectors/themes.
+
+Page 3 explains the treatment of existing schemes during rationalisation,
+including possible merger, winding-up or fundamental-attribute changes, and
+the requirement to align schemes with the specified categories.
+
+Page 4 contains the first part of the equity table, including Multi Cap, Large
+Cap, Large & Mid Cap, Mid Cap, Small Cap, Dividend Yield, Value, Contra and
+Focused Funds.
+
+Page 5 completes the equity table with Sectoral/Thematic and ELSS and begins
+the debt table with Overnight, Liquid, Ultra Short Duration, Low Duration,
+Money Market, Short Duration and Medium Duration Funds.
+
+Page 6 completes the debt table with Medium to Long Duration, Long Duration,
+Dynamic Bond, Corporate Bond, Credit Risk, Banking and PSU, Gilt, Gilt with
+10-year constant duration and Floater Funds. The page also contains notes
+about uniform NAV cut-off provisions and liquid-scheme provisions referenced
+by the circular.
+
+Page 7 contains the hybrid table. The visual table is particularly useful
+because it shows the allocation bands for Conservative Hybrid, Balanced Hybrid
+and Aggressive Hybrid Funds and the structure of Dynamic Asset Allocation,
+Multi Asset Allocation, Arbitrage and Equity Savings.
+
+Page 8 contains the Solution Oriented and Other Schemes tables. It states the
+lock-in framework for Retirement and Children's Funds and the 95% portfolio
+requirements in the supplied 2017 framework for Index Funds/ETFs and Fund of
+Funds.
+
+These page-level observations are important because the PDF is a regulatory
+table rather than a narrative investor guide. The AMFI web page supplies the
+narrative explanations that make those tables easier to interpret.
+
+================================================================================
+APPENDIX F — FINAL CATEGORY-SELECTION PRINCIPLE
+================================================================================
+
+A category should be selected because its risk and investment mandate fit the
+investor's objective.
+
+DO NOT ASK:
+"Which category gave the highest return?"
+
+ASK:
+"Which category can reasonably meet my objective while keeping the risks,
+liquidity and time horizon within my capacity?"
+
+Then ask:
+"Among the schemes in that category, which implementation is efficient,
+transparent, cost-effective and consistent with its stated mandate?"
+
+That is the central purpose of mutual-fund categorisation: to make the
+investment mandate visible enough that an investor can make a disciplined
+comparison instead of buying a product based only on a name, recent return or
+marketing narrative.
+
+================================================================================
+END OF APPENDICES
+================================================================================

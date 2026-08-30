@@ -1,0 +1,5 @@
+KNOWN_CITIES = ["Ahmedabad", "Bangalore", "Chennai", "Delhi", "Hyderabad", "Jaipur", "Kolkata", "Lucknow", "Mumbai", "Pune"]
+KNOWN_EDUCATION = ["B.E.", "B.Sc", "B.Tech", "BCA", "M.Sc", "M.Tech", "MBA", "MCA"]
+KNOWN_JOB_ROLES = ["Business Analyst", "Data Analyst", "Data Scientist", "DevOps Engineer", "Project Coordinator", "QA Engineer", "Software Engineer", "Technical Support Engineer", "UI UX Designer", "Web Developer"]
+KNOWN_AREA_TYPES = ["Central", "North", "South", "East", "West", "Outer", "Suburban", "IT Corridor", "Premium", "Developing"]
+KNOWN_GOAL_TYPES = ["Marriage", "Car", "Home"]

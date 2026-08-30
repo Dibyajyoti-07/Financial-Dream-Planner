@@ -1,0 +1,100 @@
+{
+  "selected_model": "AdaBoost",
+  "selection_rule": "lowest Test_MAE on 80/20 held-out split; ties broken by higher Test_R2",
+  "trained_at": "2026-08-30T09:02:52.413522+00:00",
+  "random_state": 42,
+  "test_size": 0.2,
+  "cv_folds": 5,
+  "features": [
+    "City",
+    "Education",
+    "Job_Role",
+    "Age"
+  ],
+  "target": "Monthly_Salary",
+  "refit_on_full_data": true,
+  "training_salary_range": {
+    "min": 18000.0,
+    "max": 123000.0
+  },
+  "metrics": {
+    "Linear Regression": {
+      "CV_R2_Mean": -1.1893417354633153e+22,
+      "Test_R2": 0.8674363429706328,
+      "Test_MAE": 8597.889539095508,
+      "Test_RMSE": 9759.643081392303
+    },
+    "Ridge Regression": {
+      "CV_R2_Mean": 0.8828880687522528,
+      "Test_R2": 0.8794121295450564,
+      "Test_MAE": 7770.7846991172,
+      "Test_RMSE": 9308.367262217067
+    },
+    "Lasso Regression": {
+      "CV_R2_Mean": -0.10410512094846096,
+      "Test_R2": -0.011907164304776119,
+      "Test_MAE": 21542.5,
+      "Test_RMSE": 26964.478949165696
+    },
+    "ElasticNet": {
+      "CV_R2_Mean": 0.40430935357008024,
+      "Test_R2": 0.4328965404723979,
+      "Test_MAE": 15324.023167846311,
+      "Test_RMSE": 20186.11976125474
+    },
+    "Decision Tree": {
+      "CV_R2_Mean": 0.7806118354110675,
+      "Test_R2": 0.8467699566126557,
+      "Test_MAE": 8100.0,
+      "Test_RMSE": 10492.85471165974
+    },
+    "Random Forest": {
+      "CV_R2_Mean": 0.8636547541489665,
+      "Test_R2": 0.8533487270842103,
+      "Test_MAE": 8050.500000000009,
+      "Test_RMSE": 10265.133827671227
+    },
+    "Extra Trees": {
+      "CV_R2_Mean": 0.8439453668727385,
+      "Test_R2": 0.8421190855603992,
+      "Test_MAE": 7876.250000000009,
+      "Test_RMSE": 10650.905067176229
+    },
+    "AdaBoost": {
+      "CV_R2_Mean": 0.8505946453887565,
+      "Test_R2": 0.8571131516880666,
+      "Test_MAE": 7597.709023003141,
+      "Test_RMSE": 10132.528307409397
+    },
+    "Gradient Boosting": {
+      "CV_R2_Mean": 0.8736703294562652,
+      "Test_R2": 0.8431112049946241,
+      "Test_MAE": 8478.537389762292,
+      "Test_RMSE": 10617.387327079354
+    },
+    "Hist Gradient Boosting": {
+      "CV_R2_Mean": 0.7769311578885316,
+      "Test_R2": 0.7499911428980394,
+      "Test_MAE": 10313.24689261857,
+      "Test_RMSE": 13402.919050390816
+    },
+    "K-Nearest Neighbors": {
+      "CV_R2_Mean": 0.8122036606316222,
+      "Test_R2": 0.7810911899683728,
+      "Test_MAE": 9680.0,
+      "Test_RMSE": 12541.61074184652
+    },
+    "Support Vector Regressor": {
+      "CV_R2_Mean": 0.8625545052310262,
+      "Test_R2": 0.7996661396929605,
+      "Test_MAE": 9084.602559328909,
+      "Test_RMSE": 11997.724276368675
+    },
+    "Neural Network (MLP)": {
+      "CV_R2_Mean": 0.8334291635170559,
+      "Test_R2": 0.8470586888261931,
+      "Test_MAE": 8413.55046447873,
+      "Test_RMSE": 10482.964178343718
+    }
+  }
+}

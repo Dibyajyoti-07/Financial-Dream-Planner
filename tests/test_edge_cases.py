@@ -191,8 +191,8 @@ def test_case_23_missing_city_field_422_or_clarify(client):
     assert r.status_code == 422
 
 
-def test_case_24_gemini_unreachable_plan_still_works(client):
-    with patch("agent.agent.ChatGoogleGenerativeAI", side_effect=RuntimeError("Gemini unreachable")):
+def test_case_24_llm_unreachable_plan_still_works(client):
+    with patch("agent.agent.ChatGroq", side_effect=RuntimeError("Groq unreachable")):
         r = client.post("/plan", json=VALID_PLAN)
         assert r.status_code == 200
         assert r.json()["predicted_monthly_salary"] > 0
@@ -222,18 +222,14 @@ def test_future_goal_cost_formula():
     assert abs(result["projected_cost"] - expected) < 0.01
 
 
-def test_rate_limit_suggests_other_models():
+def test_rate_limit_fallback_has_no_suggested_models():
     from langchain_core.exceptions import ModelRateLimitError
 
     with patch("agent.agent._build_agent", side_effect=ModelRateLimitError("rate limited")):
-        r = agent.run(
-            "I am 24, Kolkata, M.Tech, Data Scientist, planning Home in 5 years, save 20%",
-            model_id="gemini-3.5-flash",
-        )
+        r = agent.run("I am 24, Kolkata, M.Tech, Data Scientist, planning Home in 5 years, save 20%")
     assert r["degraded"] is True
     assert r["error_type"] == "rate_limit"
-    assert r["suggested_models"] is not None
-    assert "gemini-3.5-flash" not in r["suggested_models"]
+    assert r["suggested_models"] is None
     assert r["plan"] is not None
 
 
@@ -249,10 +245,7 @@ def test_stream_rate_limit_fallback_has_no_partial_tokens_and_a_plan():
     from langchain_core.exceptions import ModelRateLimitError
 
     with patch("agent.agent._build_agent", side_effect=ModelRateLimitError("rate limited")):
-        events = list(agent.stream(
-            "I am 24, Kolkata, M.Tech, Data Scientist, planning Home in 5 years, save 20%",
-            model_id="gemini-3.5-flash",
-        ))
+        events = list(agent.stream("I am 24, Kolkata, M.Tech, Data Scientist, planning Home in 5 years, save 20%"))
     assert len(events) == 1
     assert events[0]["type"] == "fallback"
     assert events[0]["error_type"] == "rate_limit"

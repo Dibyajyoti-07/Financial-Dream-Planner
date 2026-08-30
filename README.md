@@ -1,12 +1,12 @@
 # AI-Powered Financial Dream & Goal Planner
 
-Local, free-only backend: predicts starting salary, projects future goal costs (Marriage/Car/Home) under inflation, computes required monthly investment, runs feasibility analysis, and recommends broad investment categories. Optional natural-language chat via Google Gemini (free tier).
+Local, free-only backend: predicts starting salary, projects future goal costs (Marriage/Car/Home) under inflation, computes required monthly investment, runs feasibility analysis, and recommends broad investment categories. Optional natural-language chat via the Groq API (free tier).
 
 ## Architecture
 
 ```
 User -> FastAPI (/chat, /chat/stream, /plan, /recalculate, /health, /models/metadata)
-     -> LangGraph agent (Gemini Developer API or Groq API, tool-calling, user-selectable model)
+     -> LangGraph agent (Groq API, tool-calling)
      -> Tools: predict_salary | future_goal_cost | investment_required
               | feasibility_check | recommend_category | web_search
      -> RAG tool (local Chroma vector store) for explanatory questions only
@@ -15,7 +15,7 @@ User -> FastAPI (/chat, /chat/stream, /plan, /recalculate, /health, /models/meta
 
 `/chat/stream` returns the same result as `/chat` but as newline-delimited JSON events (`{"type": "token", "text": ...}` while the answer is generated, then one terminal `{"type": "final"|"fallback", ...}` event) - this is what the Streamlit UI uses for live token-by-token rendering; `/chat` stays as a plain one-shot JSON endpoint for any other caller.
 
-`/plan` and `/recalculate` never depend on Gemini - they run the same deterministic pipeline (`tools/planner.compute_plan`) as the agent's fallback path, so the app works fully offline except for `/chat`'s natural-language understanding.
+`/plan` and `/recalculate` never depend on Groq - they run the same deterministic pipeline (`tools/planner.compute_plan`) as the agent's fallback path, so the app works fully offline except for `/chat`'s natural-language understanding.
 
 ## Setup
 
@@ -55,17 +55,7 @@ If the API is unreachable, the UI shows a clear message instead of failing silen
 
 ## Models
 
-`/chat`'s natural-language understanding and RAG answer synthesis (never financial calculations) can run on either the Gemini Developer API or the Groq API - the caller chooses among seven free-tier models via `model_id`:
-
-- `gemini-2.5-flash` (default)
-- `gemini-3.5-flash`
-- `gemini-3.1-flash-lite`
-- `groq-gpt-oss-120b` (`openai/gpt-oss-120b`)
-- `groq-gpt-oss-20b` (`openai/gpt-oss-20b`)
-- `groq-qwen-3.6-27b` (`qwen/qwen3.6-27b`)
-- `groq-qwen-3.8-27b` (`qwen/qwen3.8-27b`)
-
-The gpt-oss and Qwen models served by Groq are themselves open-weight; the Gemini models are not (though the Gemini Developer API free tier is, of course, free). If the selected provider is unreachable, rate-limited, or the corresponding key is missing, `/chat` degrades to a regex-based field extractor feeding the same deterministic pipeline `/plan` uses.
+`/chat`'s natural-language understanding and RAG answer synthesis (never financial calculations) runs on a single free-tier Groq model, `groq-gpt-oss-120b` (`openai/gpt-oss-120b`). If Groq is unreachable, rate-limited, or the key is missing, `/chat` degrades to a regex-based field extractor feeding the same deterministic pipeline `/plan` uses.
 
 ## Assumptions (stated explicitly, not guarantees)
 

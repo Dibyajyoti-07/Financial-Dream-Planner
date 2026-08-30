@@ -6,7 +6,6 @@ import groq
 from langchain_core.exceptions import ModelRateLimitError
 from langchain_core.messages import HumanMessage
 from langchain_core.tools import tool
-from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_groq import ChatGroq
 from langgraph.prebuilt import create_react_agent
 
@@ -20,13 +19,7 @@ from tools import feasibility_tool, future_cost_tool, investment_tool, recommend
 from tools.planner import compute_plan
 
 MODEL_REGISTRY = {
-    "gemini-2.5-flash": {"provider": "gemini", "model": "gemini-2.5-flash"},
-    "gemini-3.5-flash": {"provider": "gemini", "model": "gemini-3.5-flash"},
-    "gemini-3.1-flash-lite": {"provider": "gemini", "model": "gemini-3.1-flash-lite"},
-    "groq-gpt-oss-120b": {"provider": "groq", "model": "openai/gpt-oss-120b"},
-    "groq-gpt-oss-20b": {"provider": "groq", "model": "openai/gpt-oss-20b"},
-    "groq-qwen-3.6-27b": {"provider": "groq", "model": "qwen/qwen3.6-27b"},
-    "groq-qwen-3.8-27b": {"provider": "groq", "model": "qwen/qwen3.8-27b"},
+    "groq-gpt-oss-120b": {"model": "openai/gpt-oss-120b"},
 }
 ALLOWED_MODELS = list(MODEL_REGISTRY.keys())
 DEFAULT_MODEL = "groq-gpt-oss-120b"
@@ -68,8 +61,9 @@ def recommend_category(years: int, goal_type: Literal["Marriage", "Car", "Home"]
 
 @tool
 def knowledge_base_search(query: str) -> list[str]:
-    """Search the local financial-planning knowledge base for text relevant to a conceptual question. Returns an empty list if nothing relevant is found - in that case, tell the user the information is not available in the knowledge base."""
-    return retriever.retrieve(query, k=3)
+    """Search the local financial-planning knowledge base for text relevant to a conceptual question. Returns a "nothing found" notice if no relevant text exists - in that case, tell the user the information is not available in the knowledge base."""
+    results = retriever.retrieve(query, k=3)
+    return results if results else ["No relevant information found in the knowledge base."]
 
 
 TOOLS = [predict_salary, future_goal_cost, investment_required, feasibility_check, recommend_category, knowledge_base_search, web_search]
@@ -84,28 +78,19 @@ def _build_agent(model_id):
     if entry is None:
         raise InvalidModelError(f"Unknown model: {model_id}. Choose one of {ALLOWED_MODELS}")
 
-    if entry["provider"] == "gemini":
-        llm = ChatGoogleGenerativeAI(model=entry["model"], google_api_key=os.getenv("GEMINI_API_KEY"), temperature=0)
-    else:
-        llm = ChatGroq(model=entry["model"], groq_api_key=os.getenv("GROQ_API_KEY"), temperature=0)
-
+    llm = ChatGroq(model=entry["model"], groq_api_key=os.getenv("GROQ_API_KEY"), temperature=0)
     return create_react_agent(llm, TOOLS, prompt=SYSTEM_PROMPT)
 
 
-def _other_models(model_id):
-    return [m for m in ALLOWED_MODELS if m != model_id]
-
-
-def _unavailable_note(model_id, error_type):
-    if error_type == "rate_limit" and model_id:
-        others = ", ".join(_other_models(model_id))
-        return f"(Model '{model_id}' has hit its API rate/usage limit - this is a deterministic summary instead. Try switching to a different model: {others}.)"
+def _unavailable_note(error_type):
+    if error_type == "rate_limit":
+        return "(The model has hit its API rate/usage limit - this is a deterministic summary instead. Please try again shortly.)"
     return "(The selected AI model is currently unavailable - this is a deterministic summary.)"
 
 
 def _fallback_reply(message, model_id=None, error_type=None):
-    note = _unavailable_note(model_id, error_type)
-    suggested_models = _other_models(model_id) if error_type == "rate_limit" and model_id else None
+    note = _unavailable_note(error_type)
+    suggested_models = None
 
     try:
         request = extract_plan_request(message)

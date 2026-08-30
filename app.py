@@ -11,16 +11,7 @@ import streamlit as st
 
 API_BASE_URL = os.getenv("API_BASE_URL", "http://localhost:8000")
 
-ALLOWED_MODELS = [
-    "gemini-2.5-flash",
-    "gemini-3.5-flash",
-    "gemini-3.1-flash-lite",
-    "groq-gpt-oss-120b",
-    "groq-gpt-oss-20b",
-    "groq-qwen-3.6-27b",
-    "groq-qwen-3.8-27b",
-]
-DEFAULT_MODEL = "groq-gpt-oss-120b"
+MODEL_ID = "groq-gpt-oss-120b"
 
 ROOT = Path(__file__).parent
 SALARY_CSV = ROOT / "data" / "salary_data.csv"
@@ -52,31 +43,6 @@ st.markdown(
         padding-left: 24px !important;
         padding-right: 24px !important;
         max-width: 100% !important;
-    }}
-
-    .st-key-compose_box {{
-        padding: 18px 20px;
-        border-radius: 20px;
-    }}
-    .st-key-compose_box textarea {{
-        background: transparent !important;
-        border: none !important;
-        box-shadow: none !important;
-        padding-left: 4px !important;
-    }}
-    .st-key-compose_box [data-testid="stHorizontalBlock"] {{
-        align-items: center;
-        margin-top: 8px;
-    }}
-    .st-key-send_btn button {{
-        border-radius: 50% !important;
-        width: 40px !important;
-        height: 40px !important;
-        padding: 0 !important;
-        background: linear-gradient(90deg, {ACCENT}, #7a73ff) !important;
-        border: none !important;
-        color: white !important;
-        font-weight: 700;
     }}
 
     .st-key-navbar {{
@@ -416,8 +382,6 @@ elif page == "Predictor":
         st.session_state.last_notice = None
     if "pending" not in st.session_state:
         st.session_state.pending = False
-    if "model_id" not in st.session_state:
-        st.session_state.model_id = DEFAULT_MODEL
 
     has_history = bool(st.session_state.chat_history)
     user_message = None
@@ -425,27 +389,12 @@ elif page == "Predictor":
     if not has_history:
         st.markdown("<div style='height: 10vh'></div>", unsafe_allow_html=True)
         st.markdown("<h4 style='text-align:center'>Tell me about yourself and your goals</h4>", unsafe_allow_html=True)
-        _, box_col, _ = st.columns([1, 3, 1])
-        with box_col:
-            with st.container(key="compose_box", border=True):
-                message_draft = st.text_area(
-                    "Message", key="compose_text",
-                    placeholder="e.g. I am 24, live in Delhi, B.Tech, Software Engineer...",
-                    height=100, disabled=st.session_state.pending, label_visibility="collapsed",
-                )
-                _, select_col, send_col = st.columns([5, 3, 1])
-                with select_col:
-                    model_id = st.selectbox(
-                        "Model", ALLOWED_MODELS, key="model_id",
-                        disabled=st.session_state.pending, label_visibility="collapsed",
-                    )
-                with send_col:
-                    send_clicked = st.button("↑", key="send_btn", disabled=st.session_state.pending, width="stretch")
-                if send_clicked and message_draft.strip():
-                    user_message = message_draft.strip()
+        user_message = st.chat_input(
+            "e.g. I am 24, live in Delhi, B.Tech, Software Engineer...",
+            key="chat_input_start",
+            disabled=st.session_state.pending,
+        )
     else:
-        model_id = st.session_state.model_id
-
         for msg in st.session_state.chat_history:
             render_message(msg["role"], msg["content"])
 
@@ -469,7 +418,7 @@ elif page == "Predictor":
             final_holder = {}
 
             def gen():
-                for event in stream_chat_api(last_message, history_for_api, model_id):
+                for event in stream_chat_api(last_message, history_for_api, MODEL_ID):
                     if event.get("type") == "token":
                         yield event["text"]
                     else:
@@ -484,7 +433,7 @@ elif page == "Predictor":
                 if final_event.get("type") in ("fallback", "fallback_local"):
                     reply_text = final_event.get("reply", full_reply)
                     if final_event.get("error_type") == "rate_limit":
-                        st.session_state.last_notice = f"'{model_id}' hit its rate limit. Try: {', '.join(final_event['suggested_models'])}"
+                        st.session_state.last_notice = "The model hit its rate limit. Please try again in a moment."
                 if final_event.get("plan"):
                     st.session_state.last_plan = final_event["plan"]
 
